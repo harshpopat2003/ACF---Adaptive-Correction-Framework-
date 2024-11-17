@@ -1,0 +1,2298 @@
+[
+    {
+        "question": "उत्प्लावक बल कैसे उत्पन्न होते हैं?\n\nA. उत्प्लावक बल तब होते हैं जब किसी वस्तु को हवा के संपर्क में लाया जाता है, जिससे हवा का दबाव एक उठाने वाले बल को उत्पन्न करता है।\nB. उत्प्लावक बल तब होते हैं जब कोई वस्तु आंशिक या पूरी तरह से एक तरल में डूबी होती है, जो तरल द्वारा विस्थापित तरल के वजन के बराबर होती है।\nC. उत्प्लावक बल तब होते हैं जब किसी वस्तु को गरम किया जाता है, जिससे यह फैलता है और तरल को विस्थापित करता है।\nD. उत्प्लावक बल तब होते हैं जब किसी वस्तु को संकुचित किया जाता है, जिससे इसकी मात्रा घटती है और तरल को विस्थापित करती है।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5cdafc3f80a4ef06764f3c1bb0b1517c"
+    },
+    {
+        "question": "तरल की गति में परिवर्तन उसके दबाव को कैसे प्रभावित करता है?\n\nA. तरल का दबाव वेग के बावजूद स्थिर रहता है।\nB. तरल दबाव और वेग के बीच सीधा अनुपात।\nC. तरल दबाव और वेग के बीच कोई संबंध नहीं है।\nD. तरल दबाव और वेग के बीच विपरीत अनुपात।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e3b3a121c864dcd03522f1b8cb31067d"
+    },
+    {
+        "question": "2 kg द्रव्यमान वाली एक वस्तु पर दो बल प्रभावित करते हैं। पहला बल $F_1= < -9 N, 8 N>$ है और दूसरा बल $F_2 = < -7 N, -4 N>$ है। वस्तु की त्वरण की दर और दिशा क्या है?\n\nA. 10.3 m/s², x-अक्ष से घड़ी की दिशा में 124°\nB. 7.8 m/s², x-अक्ष से घड़ी की दिशा में 95°\nC. 8.25 m/s², x-अक्ष से घड़ी की दिशा में 104°\nD. 6.5 m/s², x-अक्ष से घड़ी की दिशा में 86°",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c982f177abcff7e0472b9d60a6aa7c07"
+    },
+    {
+        "question": "$||  <-1,  -2,  7  >  -  <3,  2 , -3   >  ||$ क्या है?\n\nA. 10.67\nB. 11.49\nC. 9.85\nD. 13.21\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5fa2e09d2a70b832828f6d26dacd2cc4"
+    },
+    {
+        "question": "गेंद जिसका द्रव्यमान $420 g$ है, वह एक वसंत लोडेड यंत्र द्वारा लंबवत रूप से फेंकी गई। इस यंत्र में वसंत की स्थिरांकता $18 (kg)/s^2$ है और जब गेंद छोड़ी गई तब वसंत $6/5 m$ तक संपीड़ित की गई थी। गेंद कितनी ऊँचाई पर जाएगी?\n\nA. 2.62 m\nB. 1.85 m\nC. 2.15 m\nD. 3.29 m\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "da9c3e90ee24a8315b9816ad28dfea61"
+    },
+    {
+        "question": "प्रतिरोधक संयोजन क्या हैं?\n\nA. कुल प्रतिरोध 48.75 ओम\nB. कुल प्रतिरोध 68.75 ओम\nC. कुल प्रतिरोध 78.75 ओम\nD. कुल प्रतिरोध 58.75 ओम\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "924047bea0b5137a0d2d3dbc02a17b23"
+    },
+    {
+        "question": "इलेक्ट्रिक चार्ज मैग्नेटिक फील्ड्स कैसे बनाते हैं?\n\nA. मैग्नेटिक फील्ड्स केवल न्यूट्रल चार्जेस को प्रभावित करती हैं।\nB. गतिशील इलेक्ट्रिक चार्ज मैग्नेटिक फील्ड्स उत्पन्न करते हैं।\nC. मैग्नेटिक फील्ड्स इलेक्ट्रिक चार्जेस को उत्पन्न करती हैं।\nD. इलेक्ट्रिक चार्ज मैग्नेटिक फील्ड्स को अवशोषित करते हैं।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "957a47f6899063c40870e9cdcb904972"
+    },
+    {
+        "question": "मारियानस ट्रेंच के निचले हिस्से में जल दबाव लगभग $1,100$ $kPa$ है। मारियानस ट्रेंच के निचले हिस्से में जल दबाव एक मछली पर जिसका सतह क्षेत्रफल $.50$ $m^2$ है, कितना बल लगाएगा?\n\nA. 550 kN\nB. 650 kN\nC. 450 kN\nD. 750 kN",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "03fdb6fe34a31d7e4ef6aaaff0983d78"
+    },
+    {
+        "question": "जिस ध्वनि की तीव्रता 5.0 x 10-6 watts/m² है, उसका ध्वनि स्तर डीबी में क्या है?\n\nA. 64.88 dB\nB. 70.53 dB\nC. 62.47 dB\nD. 66.99 dB",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "535f26cb7014c8d394e0a1430d4a4920"
+    },
+    {
+        "question": "मैं वेग में परिवर्तन कैसे गणना कर सकता हूँ?\n\nA. औसत गति की गणना करें।\nB. स्थिति का दूसरा डेरिवेटिव या वेग का पहला डेरिवेटिव खोजें।\nC. वेग को समय से गुणा करें।\nD. दूरी को समय से विभाजित करें।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "44f01acf31b3ee60b2e4bb39773cc6d5"
+    },
+    {
+        "question": "एक स्प्रिंग जिसकी स्थिरांक $4 (kg)/s^2$ है, ज़मीन पर पड़ी हुई है और एक सिरा दीवार से जुड़ा हुआ है। एक वस्तु जिसका द्रव्यमान $3 kg$ और गति $1 m/s$ है, स्प्रिंग से टकराती है और स्प्रिंग को दबाती है जब तक कि वह चलना बंद नहीं कर देती। स्प्रिंग कितना कम्प्रेस होगी?\n\nA. 0.87m\nB. 0.58m\nC. 1.29m\nD. 1.45m",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a9b41f0190987c0884e28c9fda82b8ab"
+    },
+    {
+        "question": "विद्युत क्षेत्र संधारित्रता को कैसे प्रभावित करता है?\n\nA. विद्युत क्षेत्र संधारित्रता को कम करता है।\nB. विद्युत क्षेत्र संधारित्रता को प्रभावित नहीं करता।\nC. विद्युत क्षेत्र संधारित्रता को ज्यामिति के आधार पर बदलता है।\nD. विद्युत क्षेत्र संधारित्रता को बढ़ाता है।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "15ad7238e634926e32b065d962a1d5f1"
+    },
+    {
+        "question": "कंटेनर के अंदर की गैस $25 Pa$ का दबाव उत्पन्न करती है और तापमान $450 ^o K$ है। यदि गैस का तापमान $550 ^oK$ तक बदल जाता है और कंटेनर की मात्रा में कोई परिवर्तन नहीं होता, तो गैस का नया दबाव क्या होगा?\n\nA. 30.56 Pa\nB. 28.45 Pa\nC. 27.89 Pa\nD. 32.67 Pa",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "68bf5b0699e3b6c398036b089cd2d083"
+    },
+    {
+        "question": "आप एक खाली पैन को सीधे स्टोव बर्नर के ऊपर रखते हैं, और बर्नर को चालू करते हैं। जल्द ही, पैन का तापमान बढ़ने लगता है। बर्नर से पैन तक ऊष्मा कैसे स्थानांतरित होती है?\n\nA. ऊष्मा मुख्य रूप से विकिरण और संवहन द्वारा स्थानांतरित होती है।\nB. ऊष्मा केवल चालन द्वारा स्थानांतरित होती है।\nC. ऊष्मा मुख्य रूप से चालन और संवहन द्वारा स्थानांतरित होती है।\nD. ऊष्मा मुख्य रूप से विकिरण और चालन द्वारा स्थानांतरित होती है।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "fadd7c548486c4e1abaf415077e66346"
+    },
+    {
+        "question": "कूलॉम का नियम न्यूटन के सार्वभौमिक गुरुत्वाकर्षण के नियम से कैसे भिन्न होता है?\n\nA. कूलॉम का नियम सकारात्मक या नकारात्मक आवेशों के बारे में है, जबकि गुरुत्वाकर्षण बल हमेशा आकर्षित करने वाले होते हैं।\nB. कूलॉम का नियम केवल आवेशित कणों पर लागू होता है, जबकि गुरुत्वाकर्षण बल सभी वस्तुओं पर प्रभाव डालते हैं।\nC. गुरुत्वाकर्षण बल सकारात्मक या नकारात्मक हो सकते हैं, जबकि कूलॉम के नियम के बल हमेशा आकर्षित करने वाले होते हैं।\nD. न्यूटन के सार्वभौमिक गुरुत्वाकर्षण के नियम में एक स्थिरांक होता है, जबकि कूलॉम के नियम में नहीं होता है।\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c7278bc174f77be42ff26dac6510d4cd"
+    },
+    {
+        "question": "संतुलित लीवर पर दो भार होते हैं, पहले का द्रव्यमान $15 kg$ और दूसरे का द्रव्यमान $24 kg$ है। यदि पहला भार फुलक्रम से $7 m$ दूर है, तो दूसरा भार फुलक्रम से कितनी दूर है?\n\nA. 6.25m\nB. 3.625m\nC. 5.125m\nD. 4.375m",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b31abcb623d0e68a481f4e821a2d3247"
+    },
+    {
+        "question": "क्या पदार्थ में परिवर्तन होने पर ऊर्जा अवशोषित हो सकती है?\n\nA. ऊर्जा अवशोषण केवल चरण संक्रमण के दौरान होता है।\nB. ऊर्जा केवल उत्सर्जनात्मक परिवर्तनों के दौरान अवशोषित होती है।\nC. हाँ, ऊर्जा संश्लेषणात्मक परिवर्तनों के दौरान अवशोषित हो सकती है।\nD. नहीं, पदार्थ में परिवर्तन होने पर ऊर्जा अवशोषित नहीं हो सकती।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2bf3bb575fe67d8a40977272000c42c3"
+    },
+    {
+        "question": "एक वस्तु की द्वि-आयामी वेग $v(t) = ( t^2 +2t ,  cospit - 3t )$ द्वारा दी गई है। $t=7$ पर वस्तु की त्वरण की दर और दिशा क्या है?\n\nA. 18.34 ms^-2, 187.5°\nB. 14.56 ms^-2, 152.3°\nC. 12.67 ms^-2, 146.8°\nD. 16.28 ms^-2, 169.4°",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "f93f4aa29ec4077f1b3ddee5c1216c2b"
+    },
+    {
+        "question": "आप द्रव प्रवाह को कैसे मापते हैं?\n\nA. छिद्र के आर-पार दबाव की कमी का उपयोग करके द्रव प्रवाह को मापें।\nB. तापमान में परिवर्तन का उपयोग करके द्रव प्रवाह को मापें।\nC. कण वेग का उपयोग करके द्रव प्रवाह को मापें।\nD. द्रव चिपचिपाहट का उपयोग करके द्रव प्रवाह को मापें।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "80f47b7e73d766a4cf5cdefe8ae8294a"
+    },
+    {
+        "question": "न्यूटन का पहला नियम जड़त्व क्यों कहलाता है?\n\nA. न्यूटन का पहला नियम, जिसे जड़त्व कहा जाता है, का अर्थ है कि जब कोई बल लगाया जाता है तो एक पिंड हमेशा त्वरित होगा।\nB. न्यूटन का पहला नियम, जिसे जड़त्व भी कहा जाता है, यह बताता है कि कोई पिंड विश्राम में या समान गति में रहेगा जब तक कि बाहरी बल उस पर कार्य न करें।\nC. न्यूटन का पहला नियम, जिसे जड़त्व के रूप में जाना जाता है, यह दर्शाता है कि गति में एक पिंड अंततः बाहरी बलों के बिना विश्राम में आ जायेगा।\nD. जड़त्व एक पिंड की उस स्थिति को बदलने के प्रति प्रतिरोध की प्रवृत्ति को संदर्भित करता है, जो न्यूटन के पहले नियम से संबंधित नहीं है।\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e57e23adba4b1a47883e466e8f51d73e"
+    },
+    {
+        "question": "आप एक फुटबॉल को 12.2 मीटर/सेकंड की गति से सीधे हवा में ऊपर फेंकते हैं। गेंद कितनी ऊंचाई तक जाती है?\n\nA. 6.7m\nB. 5.8m\nC. 9.4m\nD. 7.6m",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d65d62c0f546c0fd4f2a79f1831c66aa"
+    },
+    {
+        "question": "सबसे कम तापमान जो निरपेक्ष शून्य से कम नहीं हो सकता, क्या कोई अधिकतम तापमान संभव है?\n\nA. प्लांक का तापमान, लगभग $1.42 * 10^32$ केल्विन\nB. $2.98 * 10^31$ केल्विन\nC. $6.28 * 10^25$ केल्विन\nD. $7.14 * 10^30$ केल्विन\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c06d732ec5e8851ef974fbe67972d87f"
+    },
+    {
+        "question": "परमाणु क्षय किस प्रकार की ऊर्जा उत्पन्न करता है?\n\nA. परमाणु क्षय प्रकाश और चुंबकीय तरंगें उत्पन्न करता है।\nB. परमाणु क्षय ऊष्मा और ध्वनि उत्पन्न करता है।\nC. परमाणु क्षय रासायनिक ऊर्जा और विकिरण उत्पन्न करता है।\nD. परमाणु क्षय ऊर्जा और गामा किरणें उत्पन्न करता है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "44a55e26362f93a8e20e3c6603ab4ab5"
+    },
+    {
+        "question": "यदि एक परिपथ में $6 A$ की धारा से $12 W$ की शक्ति उत्पन्न होती है, तो परिपथ का प्रतिरोध क्या है?\n\nA. 1/2 Ω\nB. 2/3 Ω\nC. 1/6 Ω\nD. 1/3 Ω",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "329928ae545e0f2ff77568f7b299ffd9"
+    },
+    {
+        "question": "14 किलोग्राम द्रव्यमान वाली एक वस्तु पर दो बल कार्य कर रहे हैं। पहला बल $F_1= <  5   N , 3 N>$ है और दूसरा बल $F_2 = <  2   N, 7  N>$ है। इस वस्तु की त्वरण की दर और दिशा क्या है?\n\nA. 0.87 m/s², 55°\nB. 0.75 m/s², 60°\nC. 1.2 m/s², 45°\nD. 0.95 m/s², 50°",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "71591f34a1562ad562966503e54edf6d"
+    },
+    {
+        "question": "संधारित्र के प्लेट क्षेत्रफल में वृद्धि होने पर संधारिता पर क्या प्रभाव पड़ता है?\n\nA. संधारिता प्लेट क्षेत्रफल के साथ कम होती है।\nB. संधारिता प्लेट क्षेत्रफल के व्युत्क्रमानुपाती होती है।\nC. संधारिता प्लेट क्षेत्रफल के साथ स्थिर रहती है।\nD. संधारिता प्लेट क्षेत्रफल के साथ बढ़ती है।\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "59991b01eeaa920d2205da46d4ef6604"
+    },
+    {
+        "question": "एक रैखिक पथ पर यात्रा करती हुई गतिशील वस्तु के खिलाफ लागू बल को $F(x) = \\sin x + 2$ द्वारा दिया गया है। वस्तु को $x \\in [0, \\pi/3]$ के दौरान स्थानांतरित करने के लिए कितना कार्य करना पड़ेगा?\n\nA. 1/2 - 2*pi/3\nB. 1/2 + pi/3\nC. 3/2 + 2*pi/3\nD. 1/2 + 2*pi/3",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9df5733db575da8c64cab51574062008"
+    },
+    {
+        "question": "क्या मनुष्यों के पास ऐसे गुरुत्वाकर्षण क्षेत्र होते हैं जो स्पेस-टाइम को विकृत कर सकते हैं?\n\nA. मनुष्यों का गुरुत्वाकर्षण क्षेत्र पर कोई प्रभाव नहीं होता है।\nB. मनुष्यों का गुरुत्वाकर्षण क्षेत्र पर पृथ्वी के सापेक्ष नगण्य प्रभाव होता है।\nC. मनुष्य पृथ्वी पर गुरुत्वाकर्षण क्षेत्र को काफी प्रभावित करते हैं।\nD. मनुष्यों के गुरुत्वाकर्षण क्षेत्र केवल अन्य मनुष्यों पर प्रभाव डालते हैं।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9e6af6f7580b94ff589a5e4fef00a79c"
+    },
+    {
+        "question": "कण भौतिकी मौलिक बलों की व्याख्या कैसे करती है?\n\nA. कण भौतिकी Higgs bosons के माध्यम से मौलिक बलों की व्याख्या करती है, जो अन्य कणों को द्रव्यमान प्रदान करते हैं और विद्युतचुंबकत्व, मजबूत नाभिकीय बल, कमजोर नाभिकीय बल, और गुरुत्वाकर्षण के बलों के लिए जिम्मेदार होते हैं।\nB. कण भौतिकी लेप्टानों के माध्यम से मौलिक बलों की व्याख्या करती है, जो अन्य कणों के साथ बातचीत करते हैं ताकि विद्युतचुंबकत्व, मजबूत नाभिकीय बल, कमजोर नाभिकीय बल, और गुरुत्वाकर्षण जैसे बलों का निर्माण किया जा सके।\nC. कण भौतिकी gauge bosons के माध्यम से मौलिक बलों की व्याख्या करती है, जो ये बातचीत वहन करते हैं: विद्युतचुंबकत्व के लिए photons, मजबूत नाभिकीय बल के लिए gluons, और कमजोर नाभिकीय बल के लिए W और Z bosons. गुरुत्वाकर्षण को वहन करने वाले Gravitons अभी तक अनदेखे रहे हैं।\nD. कण भौतिकी quarks के माध्यम से मौलिक बलों की व्याख्या करती है, जो संयोजन कर कणों का निर्माण करते हैं जो विद्युतचुंबकत्व, मजबूत नाभिकीय बल, कमजोर नाभिकीय बल, और गुरुत्वाकर्षण के बलों को वहन करते हैं।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2fc109bf44c2a07df91d8d43513cfa12"
+    },
+    {
+        "question": "16 किलोग्राम वजनी वस्तु कितनी तेजी से त्वरित होगी यदि उसपर निरंतर 40 N बल लगाया जाए?\n\nA. 4.0 m/s²\nB. 3.5 m/s²\nC. 2.5 m/s²\nD. 1.5 m/s²\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "32ab15012e9ac9b59e53bec0d333ffd4"
+    },
+    {
+        "question": "एक सेमी-ट्रक औसतन 70 मील प्रति घंटे की गति से 35 मील की दूरी तय करता है। इसमें कितना समय लगा?\n\nA. 0.5 घंटे\nB. 0.25 घंटे\nC. 1 घंटा\nD. 1.5 घंटे",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "324dce1f2f17071ddeba370ea39a9526"
+    },
+    {
+        "question": "आप $(- 7 i -j -25k)$ को कैसे सामान्यीकृत करेंगे?\n\nA. $\\frac{1}{15}(-7\\hat{i}-\\hat{j}-25\\hat{k})$\nB. $\\frac{1}{\\sqrt{3}}(-7\\hat{i}-\\hat{j}-25\\hat{k})$\nC. $\\frac{1}{15\\sqrt{3}}(-7\\hat{i}-\\hat{j}-25\\hat{k})$\nD. $\\frac{1}{15\\sqrt{3}}(7\\hat{i}+\\hat{j}+25\\hat{k})$",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e5f82b6a6745c77a8f08a41aece89b1e"
+    },
+    {
+        "question": "सबसे ऊँची इमारत की छत से किसी के सिर पर पैसा गिराने का क्या प्रभाव होगा?\n\nA. थोड़ा दर्द हो सकता है, पर कोई हानि नहीं।\nB. कोई प्रभाव नहीं पड़ेगा।\nC. कुछ दिनों तक हल्का सिरदर्द।\nD. गंभीर चोट या मृत्यु।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "20e5a90b3edde6b9a44014f921e7b1b4"
+    },
+    {
+        "question": "5 मीटर लंबी और 2 किलोग्राम वजनी एक छड़ पर कितना टॉर्क लगाना पड़ेगा ताकि 6 सेकंड में इसकी क्षैतिज घूर्णन आवृत्ति 2 Hz तक बदल सके?\n\nA. 6.81 Nm, 39.52 Nm\nB. 12.45 Nm, 28.67 Nm\nC. 8.73 Nm, 34.91 Nm\nD. 10.29 Nm, 31.85 Nm\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e40ac614d7e78def23aa2e1598c51c58"
+    },
+    {
+        "question": "एक कार की औसत वेग का पता लगाएं जो 6 घंटे में 360 किमी की यात्रा करती है, m/s और km/h में दिखाएं।\n\nA. 50 km/h, 13.9 m/s\nB. 60 km/h, 16.7 m/s\nC. 70 km/h, 19.4 m/s\nD. 80 km/h, 22.2 m/s",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1a5dc94d5f52a5db3e7bb3eec220c3c9"
+    },
+    {
+        "question": "यदि किसी वस्तु का द्रव्यमान $5 kg$ है और उसकी गति $5m/s$ से बदलकर $10 m/s$ हो जाती है, तो उसकी गतिज ऊर्जा में कितनी परिवर्तन होती है?\n\nA. 375 J\nB. 425 J\nC. 125 J\nD. 250 J",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b03e5ecca6ad034f2f8d6d0708b23c1f"
+    },
+    {
+        "question": "उत्तल दर्पण का उपयोग किस लिए किया जाता है?\n\nA. उत्तल दर्पण प्रोजेक्शन स्क्रीन्स, दूरबीन, पेरिस्कोप और वर्चुअल रियलिटी हेडसेट के लिए प्रयुक्त होते हैं।\nB. उत्तल दर्पण सूर्य की रोशनी को केंद्रित करने, चश्मे, कैमरा लेंस और माइक्रोस्कोप उद्देश्यों के लिए प्रयुक्त होते हैं।\nC. उत्तल दर्पण सुरक्षा कैमरा, सौर पैनल, ऑप्टिकल फाइबर और लेजर तकनीक के लिए प्रयुक्त होते हैं।\nD. उत्तल दर्पण टक्कर से बचने, दूरबीन, मैग्निफाइंग ग्लास, पिछला दर्पण, गोलाकार दर्पण और स्ट्रीट लाइट रिफ्लेक्टर्स के लिए प्रयुक्त होते हैं।\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Light and Reflection",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ede29aa857b6b888b7704c374fea6874"
+    },
+    {
+        "question": "मैग्नेटिक फोर्स किसमें मापी जाती है?\n\nA. टेस्ला (T)\nB. गौस (G)\nC. न्यूटन (N)\nD. न्यूटन/कूलॉम्ब (N/C)",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Magnetism",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1243fb4992cdeb499a9a685b8fe20550"
+    },
+    {
+        "question": "$8 kg$ के द्रव्यमान वाली वस्तु कितनी तेजी से त्वरित होगी यदि उस पर लगातार $29 N$ का बल लगाया जाए?\n\nA. 2.875 m/s²\nB. 5.25 m/s²\nC. 3.625 m/s²\nD. 4.125 m/s²",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b266f8452c9de36c0f67190140d91163"
+    },
+    {
+        "question": "एक वस्तु $(4, 5, 1)$ पर विश्राम में है और जब वह बिंदु B की ओर जाती है तो $5/3 \\, m/s^2$ की दर से निरंतर त्वरण करती है। यदि बिंदु B $(7, 5, 6)$ पर है, तो वस्तु को बिंदु B तक पहुँचने में कितना समय लगेगा? मान लीजिए कि सभी निर्देशांक मीटर में हैं।\n\nA. 2.10s\nB. 3.42s\nC. 1.98s\nD. 2.65s",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7ce0d4ef192340c728a58ea48877e640"
+    },
+    {
+        "question": "कूलोंब के नियतांक के संदर्भ में, जो दो विद्युत आवेश $-225 C$ और $-15 C$ के बीच होते हैं, जो $15 m$ की दूरी पर हैं, उनके बीच का बल क्या है?\n\nA. -15k N\nB. -225k N\nC. 15k N\nD. 225k N\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a4a7bc81ab8550b83fde980ee46ca88d"
+    },
+    {
+        "question": "3 किलोग्राम की एक वस्तु एक बिंदु के चारों ओर 4 मीटर की दूरी पर घूम रही है। यदि वस्तु 7 हर्ट्ज की आवृत्ति से चक्कर लगा रही है, तो उस वस्तु पर क्रियाशील केंद्रीय बल क्या है?\n\nA. 23213.3 N\nB. 34819.9 N\nC. 46426.6 N\nD. 11606.7 N\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7384091c628310b7ec65123e4a77c029"
+    },
+    {
+        "question": "विद्युतचुंबकीय तरंगें ऊर्जा किस प्रकार स्थानांतरित करती हैं?\n\nA. विद्युतचुंबकीय तरंगें ऊर्जा को ध्वनि तरंगों के माध्यम से स्थानांतरित करती हैं।\nB. विद्युतचुंबकीय तरंगें कणों के बीच सीधे संपर्क द्वारा ऊर्जा स्थानांतरित करती हैं।\nC. विद्युतचुंबकीय तरंगें ऊष्मा की मुक्ति के माध्यम से ऊर्जा स्थानांतरित करती हैं।\nD. विद्युतचुंबकीय तरंगें ऊर्जा को दोलनशील विद्युत और चुंबकीय क्षेत्रों के माध्यम से स्थानांतरित करती हैं।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "de31d698f078cc24923ef78ad95c7069"
+    },
+    {
+        "question": "रचनात्मक हस्तक्षेप क्या है?\n\nA. सतह से परावर्तित होती लहरें।\nB. एक दूसरे को रद्द करती लहरें।\nC. लहरें जिनकी आवृत्ति बदल रही हो।\nD. एक बड़ी लहर बनाने के लिए मिलती लहरें।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Interference and Diffraction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "724d00a36b339a7f842214214f4228aa"
+    },
+    {
+        "question": "थर्मोडायनामिक्स क्या है?\n\nA. परमाणु संरचना और रासायनिक प्रतिक्रियाओं की जांच\nB. बलों, गति, और गुरुत्वाकर्षण का विश्लेषण\nC. विशिष्ट परिस्थितियों में ऊष्मा, ऊर्जा, और कार्य का अध्ययन\nD. ध्वनि, प्रकाश, और विद्युत का अध्ययन\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5cffffb9a1dd130b6b54f0e34c7e2e4c"
+    },
+    {
+        "question": "$ (-4i + 3k)$ का $(-2i -j + 2k)$ पर प्रक्षेपण क्या है?\n\nA. <-28/9, -14/9, 28/9>\nB. <28/9, -14/9, -28/9>\nC. <-14/9, -28/9, 28/9>\nD. <-28/9, 14/9, -28/9>",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b6aea3d23d9c8f1237dbdd622889c308"
+    },
+    {
+        "question": "क्या संधारित्रता आवृत्ति के साथ बदलती है?\n\nA. संधारित्रता आवृत्ति के साथ नहीं बदलती है, लेकिन संधारित्र प्रतिक्रियाशीलता बदलती है।\nB. संधारित्रता आवृत्ति के साथ बढ़ती है।\nC. संधारित्रता आवृत्ति के साथ घटती है।\nD. संधारित्रता और आवृत्ति आपस में संबंधित नहीं हैं।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "8758a3e92a86600a5b2a82abe28aba9e"
+    },
+    {
+        "question": "33 किलोग्राम वजन को 89 मीटर ऊंचाई तक उठाने में कितना काम लगता है?\n\nA. 41,673.9 J\nB. 27,782.6 J\nC. 55,565.2 J\nD. 13,891.3 J",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "01865125b1cb87d7b292d389ab214cb2"
+    },
+    {
+        "question": "7 लीटर की मात्रा वाले एक कंटेनर में गैस होती है जिसका तापमान $420^o K$ है। यदि बिना किसी दबाव में परिवर्तन के गैस का तापमान $360^o K$ हो जाता है, तो कंटेनर की नई मात्रा क्या होनी चाहिए?\n\nA. 8 L\nB. 6 L\nC. 5 L\nD. 7 L",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b2021aef21e310eb2d59c085e329a98b"
+    },
+    {
+        "question": "15°C पर एक एल्यूमिनियम रॉड की लंबाई 1.2 मीटर है, तो 65°C पर इसकी लंबाई क्या होगी?\n\nA. 1.20144 m\nB. 1.20288 m\nC. 1.20032 m\nD. 1.19856 m",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6e4d7a4486a6ca071e01632b669820f7"
+    },
+    {
+        "question": "क्या श्रृंखला समकक्ष प्रतिरोधक दोनों प्रतिरोधकों से बड़ा है या छोटा है?\n\nA. एक प्रतिरोधक के बराबर\nB. दोनों प्रतिरोधकों से बड़ा\nC. दोनों प्रतिरोधकों से छोटा\nD. दोनों प्रतिरोधकों के औसत के बराबर",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Knowledge Application",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5886208f795f348c59d5c9206760e075"
+    },
+    {
+        "question": "सभी वेक्टर आरेखों को कैसे खींचा जाना चाहिए?\n\nA. केवल कम्पास और सीधे किनारे का उपयोग करके वेक्टर आरेख खींचें।\nB. एक शासक और कोणमापी के साथ स्केल पर वेक्टर आरेख खींचें।\nC. माप के बिना फ्रीहैंड से वेक्टर आरेख खींचें।\nD. कंप्यूटर सॉफ्टवेयर के साथ डिजिटल रूप से वेक्टर आरेख बनाएं।\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b479b0b5070138d4d4ec123b4c081d78"
+    },
+    {
+        "question": "$4  kg $ के द्रव्यमान वाली एक वस्तु को $ 8  m/s $ की वेग से $ 6  m/s^2 $ की दर से त्वरित करने के लिए कितनी शक्ति की आवश्यकता होती है?\n\nA. 384W\nB. 96W\nC. 192W\nD. 48W",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "55bd7b90c8164f82557336eec3a3952f"
+    },
+    {
+        "question": "एक ठोस वस्तु पर इलेक्ट्रिक चार्ज हमेशा इलेक्ट्रॉनों की अधिकता या कमी के रूप में क्यों समझाया जाता है?\n\nA. फोटॉन्स इलेक्ट्रिक चार्ज के लिए जिम्मेदार होते हैं, क्योंकि वे आसानी से चलते हैं और मौलिक गुणों में परिवर्तन नहीं करते हैं।\nB. प्रोटॉन्स इलेक्ट्रिक चार्ज के लिए जिम्मेदार होते हैं, क्योंकि वे आसानी से चलते हैं और मौलिक गुणों में परिवर्तन नहीं करते हैं।\nC. इलेक्ट्रॉन्स वे कण हैं जो इलेक्ट्रिक चार्ज के लिए जिम्मेदार होते हैं, क्योंकि वे आसानी से चलते हैं और मौलिक गुणों में परिवर्तन नहीं करते हैं।\nD. न्यूट्रॉन्स इलेक्ट्रिक चार्ज के लिए जिम्मेदार होते हैं, क्योंकि वे आसानी से चलते हैं और मौलिक गुणों में परिवर्तन नहीं करते हैं।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a757e7dcdf130abb983500b138955d9f"
+    },
+    {
+        "question": "इंद्रधनुष में किस रंग की तरंग दैर्ध्य सबसे कम होती है?\n\nA. हरा\nB. नीला\nC. बैंगनी\nD. लाल\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Light and Reflection",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2f428227be8700a2ec57366383bf37a0"
+    },
+    {
+        "question": "$35 C$ का आवेश प्रत्येक $5 s$ में एक परिपथ से गुजरता है। यदि परिपथ $42 W$ की शक्ति उत्पन्न कर सकता है, तो परिपथ का प्रतिरोध क्या है?\n\nA. 1.714 Ω\nB. 0.857 Ω\nC. 1.285 Ω\nD. 0.429 Ω",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5fac07e30f2d39a03f1bd52869064b7a"
+    },
+    {
+        "question": "स्टीफन का नियम और न्यूटन का शीतलन नियम किस प्रकार संबंधित हैं?\n\nA. $Q \\propto (T^2-T'^2)$\nB. $Q \\propto (T^3-T'^3)$\nC. $Q \\propto (T+T')$\nD. $Q \\propto (T-T')$",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c93ce2e7660f3343feedfdfc967ad7e3"
+    },
+    {
+        "question": "$8 m$ लंबाई और $6 kg$ द्रव्यमान वाली एक छड़ पर कितना टॉर्क लगाना पड़ेगा ताकि उसकी क्षैतिज घूर्णन आवृत्ति को $7 Hz$ से $3 s$ में बदला जा सके?\n\nA. 402.8 Nm\nB. 536.2 Nm\nC. 588.3 Nm\nD. 469.1 Nm",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "497c07fcea8236fca533765cf44db4fc"
+    },
+    {
+        "question": "किसमें अधिक संवेग है, $2kg$ की वस्तु जो $9m/s$ की गति से चल रही है या $1kg$ की वस्तु जो $7m/s$ की गति से चल रही है?\n\nA. 2kg वस्तु 9m/s पर\nB. 2kg वस्तु 7m/s पर\nC. 1kg वस्तु 9m/s पर\nD. 1kg वस्तु 7m/s पर\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5307fe48c6c4b10c7a033df868f3cb51"
+    },
+    {
+        "question": "यदि 2 किलोग्राम वजन की एक वस्तु को 0m/s से 16m/s तक 6 सेकंड में निरंतर त्वरित किया जाता है, तो t=1 पर कितनी शक्ति लागू की जानी चाहिए?\n\nA. 16/3 N\nB. 8/3 N\nC. 32/3 N\nD. 4 N",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4151e881f81dab8478c9d394839b75bb"
+    },
+    {
+        "question": "किसमें अधिक संवेग है, 7kg की वस्तु जो 4m/s की गति से चल रही है या 6kg की वस्तु जो 7m/s की गति से चल रही है?\n\nA. 6kg की वस्तु जो 7m/s की गति से चल रही है\nB. 6kg की वस्तु जो 4m/s की गति से चल रही है\nC. 7kg की वस्तु जो 4m/s की गति से चल रही है\nD. 7kg की वस्तु जो 7m/s की गति से चल रही है",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "8cba7acf0dac0c9ff3333c9f8776dc51"
+    },
+    {
+        "question": "यदि समान फोकस वाले अवतल और उत्तल लेंस को सम्पर्क में रखा जाता है, तो प्रभावी फोकल लम्बाई क्या होगी?\n\nA. अनंत फोकल लम्बाई (समतल कांच के समान)\nB. शून्य फोकल लम्बाई\nC. मूल फोकल लम्बाई के बराबर\nD. मूल फोकल लम्बाई का आधा",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Refraction",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "802def8cd46f1291eea58116f2896ab5"
+    },
+    {
+        "question": "$(2i -3j + 4k)$ और $(- 5 i + 4 j - 5 k)$ का क्रॉस उत्पाद क्या है?\n\nA. -1i + 10j - 7k\nB. -1i - 10j + 7k\nC. 1i + 10j + 7k\nD. -1i - 10j - 7k",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "637eed410ba48ab389398221c660fd6a"
+    },
+    {
+        "question": "एक व्यक्ति क्रेन पर खड़ा होकर एक पानी का गुब्बारा 21 मीटर/सेकंड की गति से नीचे फेंकता है। वह पाता है कि गुब्बारे को जमीन पर गिरने में 2.4 सेकंड लगते हैं। यह जमीन पर लगने से एक सेकंड पहले कितनी ऊँचाई पर है?\n\nA. 28.745 m\nB. 45.321 m\nC. 52.987 m\nD. 39.633 m\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7b925f654cdd5e68f360a80b96e11c0f"
+    },
+    {
+        "question": "15 किलोग्राम द्रव्यमान वाली वस्तु कितनी तेजी से त्वरित होगी यदि उस पर लगातार 10 न्यूटन बल लगाया जाए?\n\nA. 0.67 m/s²\nB. 0.33 m/s²\nC. 1.34 m/s²\nD. 1.00 m/s²",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "3a2172387a542f02506f1333c40ef561"
+    },
+    {
+        "question": "एक वस्तु $(4, 7, 3)$ पर विश्राम में है और जब वह बिंदु B की ओर चलती है तो इसकी त्वरण दर $7/5 m/s^2$ की दर से लगातार होती है। यदि बिंदु B $(5, 6, 9)$ पर है, तो वस्तु को बिंदु B तक पहुँचने में कितना समय लगेगा? मान लीजिए कि सभी निर्देशांक मीटर में हैं।\n\nA. 3.0s\nB. 3.5s\nC. 2.5s\nD. 4.0s",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4849f2e2a874e03f595327de0b693ca7"
+    },
+    {
+        "question": "एक परिपथ पर A और B बिंदुओं से होकर 9 C का आवेश गुजर रहा है। यदि आवेश की विद्युत क्षमता 9 J से बदलकर 3 J हो जाती है, तो A और B बिंदुओं के बीच वोल्टेज क्या है?\n\nA. -2/3 V\nB. -1/3 V\nC. -1 V\nD. 1/3 V",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "11218475f48614e190bc474b7e09d66c"
+    },
+    {
+        "question": "एक सिलेंडर की आंतरिक और बाहरी त्रिज्या क्रमशः $8 cm$ और $12 cm$ है, और इसका द्रव्यमान $8 kg$ है। यदि सिलेंडर की अपने केंद्र के चारों ओर घूर्णन की आवृत्ति $7 Hz$ से बदलकर $3 Hz$ हो जाती है, तो इसकी कोणीय संवेग में कितनी परिवर्तन होती है?\n\nA. 1.56 kgm²s⁻¹\nB. 2.84 kgm²s⁻¹\nC. 2.09 kgm²s⁻¹\nD. 3.12 kgm²s⁻¹",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "23fdac8d3133d66dfa5ecf83d3bb023d"
+    },
+    {
+        "question": "विद्युत बल को वेक्टर के रूप में क्यों दर्शाया गया है?\n\nA. विद्युत बल विद्युत क्षेत्र के साथ अपने संबंध के कारण एक वेक्टर है।\nB. विद्युत बल एक वेक्टर है क्योंकि यह दूरी से संबंधित है।\nC. विद्युत बल एक सदिश राशि है जिसमें केवल परिमाण होता है।\nD. विद्युत बल में परिमाण और दिशा दोनों होती हैं, जिससे यह एक वेक्टर राशि बनती है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1c5e28aacbff30f78a4184b1752418a8"
+    },
+    {
+        "question": "क्या स्थिर संतुलन में कठोर वस्तु पर बाह्य टोक़ का योग शून्य के बराबर होना चाहिए?\n\nA. स्थिर संतुलन में, बाह्य टोक़ का योग वस्तु के द्रव्यमान पर निर्भर करता है।\nB. स्थिर संतुलन में, केवल बाह्य बलों का योग शून्य होना चाहिए।\nC. हां, स्थिर संतुलन में, बाह्य टोक़ का योग शून्य होना चाहिए।\nD. नहीं, स्थिर संतुलन में, बाह्य टोक़ का योग गैर-शून्य हो सकता है।\n\nAnswer:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "91e4cb9b301d931cf6f6db51bc703067"
+    },
+    {
+        "question": "भौतिकी में वेक्टर कैसे काम करते हैं?\n\nA. वेक्टर लाइनें होती हैं जो एक चलती वस्तु की गति को दर्शाती हैं।\nB. वेक्टर परिमाण और दिशा का प्रतिनिधित्व करते हैं, अक्सर विस्थापन, वेग, या बल की गणना के लिए उपयोग किए जाते हैं।\nC. वेक्टर केवल दिशा को दिखाते हैं, किसी वस्तु के मार्ग का वर्णन करने के लिए उपयोग किए जाते हैं।\nD. वेक्टर केवल परिमाण का प्रतिनिधित्व करते हैं, दूरियों की गणना में लागू किए जाते हैं।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1da0667c34e7802c75076db29b1f8bad"
+    },
+    {
+        "question": "एक इलेक्ट्रिक खिलौना कार जिसका द्रव्यमान $3 kg$ है, एक मोटर द्वारा संचालित होती है, जिसका वोल्टेज $7 V$ है और धारा आपूर्ति $8 A$ है। खिलौना कार को शून्य से $8/3 m/s$ तक त्वरित करने में कितना समय लगेगा?\n\nA. 0.190 s\nB. 0.380 s\nC. 0.095 s\nD. 0.285 s",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e78837054d181eb23975d26628996cf9"
+    },
+    {
+        "question": "जब कोई पदार्थ पानी के ऊपर तैरता है तो क्या होता है?\n\nA. कोई पदार्थ पानी पर रासायनिक प्रतिक्रियाओं की वजह से तैरता है, उसकी घनत्व पानी से अधिक होती है, या वह पानी के अणुओं द्वारा प्रतिकर्षित होता है।\nB. कोई पदार्थ पानी पर पृष्ठीय तनाव की वजह से तैरता है, उसकी घनत्व पानी से कम होती है, या परिणामस्वरूप उसकी घनत्व पानी से कम होती है।\nC. कोई पदार्थ पानी पर चुंबकीय बलों की वजह से तैरता है, उसकी घनत्व पानी के समान होती है, या वह सतह के प्रति आकर्षित होता है।\nD. कोई पदार्थ पानी पर वाष्पीकरण की वजह से तैरता है, उसकी घनत्व परिवर्तनशील होती है, या यह स्वयं के चारों ओर एक सुरक्षात्मक बाधा बनाता है।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "381e50964a6b98e0ee13483be0782d4b"
+    },
+    {
+        "question": "$(4i + 4j + 2k)$ का $(i+j-7k)$ पर प्रक्षेपण क्या है?\n\nA. <-3/17, -1/17, 10/17>\nB. <0, -4/17, 16/17>\nC. <-2/17, -2/17, 14/17>\nD. <-1/17, -3/17, 12/17>",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a049ac765d14e55fd32254c36723fbaa"
+    },
+    {
+        "question": "75% क्षमता वाली एक पुली प्रणाली को 21kg की कीलों की थैली उठाने के लिए स्थापित किया गया है। थैली को 2.3m की ऊँचाई पर एक व्यक्ति द्वारा 91.5N की बल लगाकर रस्सी खींचने से उठाया जाता है। पुली द्वारा कीलों की थैली पर किया गया काम कितना है?\n\nA. 710.3 J\nB. 450.2 J\nC. 982.5 J\nD. 656.1 J",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ce4fb0832ceb87f74db1d607d77c6bfb"
+    },
+    {
+        "question": "$1 m$ लम्बाई और $2 kg$ द्रव्यमान वाली एक छड़ पर कितना टॉर्क लागू करना होगा जिससे उसकी क्षैतिज घूर्णन को $3 Hz$ की आवृत्ति से $4 s$ में बदला जा सके?\n\nA. 1.57 Nm  \nB. 4.71 Nm  \nC. 2.36 Nm  \nD. 0.785 Nm, 3.14 Nm\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7da8954388b7fa0f4d7492176143054e"
+    },
+    {
+        "question": "$<-3,0,1>$ और $<0,8,5>$ का क्रॉस प्रोडक्ट क्या है?\n\nA. <24, -15, 8>\nB. <-8, 15, -24>\nC. <-24, 15, -8>\nD. <8, -15, 24>",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c56fdd35afe65f9d486b839958a56b21"
+    },
+    {
+        "question": "एक गेंद जिसका द्रव्यमान $4 kg$ है, $6 m/s$ की गति से चल रही है और यह एक स्थिर गेंद से टकराती है जिसका द्रव्यमान $8 kg$ है।  यदि पहली गेंद रुक जाती है, तो दूसरी गेंद कितनी तेजी से चल रही है?\n\nA. 2 m/s\nB. 3 m/s\nC. 4 m/s\nD. 6 m/s",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d52b62bf35258edb231e749d80529eb2"
+    },
+    {
+        "question": "क्या गुरुत्वाकर्षण किसी वस्तु पर कार्य कर सकता है?\n\nA. गुरुत्वाकर्षण केवल विशेष वस्तुओं पर कार्य कर सकता है।\nB. गुरुत्वाकर्षण गतिमान वस्तुओं को प्रभावित नहीं करता है।\nC. नहीं, गुरुत्वाकर्षण किसी वस्तु पर कार्य नहीं कर सकता।\nD. हां, गुरुत्वाकर्षण किसी वस्तु पर कार्य कर सकता है।\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d90afb650b62a5f3e824ee1e2e4b5b32"
+    },
+    {
+        "question": "चुंबकीय बल की रेखाएँ कैसे यात्रा करती हैं?\n\nA. उत्तर ध्रुव से दक्षिण ध्रुव तक\nB. दक्षिण ध्रुव से उत्तर ध्रुव तक\nC. यादृच्छिक दिशाओं में\nD. ध्रुवों के आसपास वृत्ताकार पथों में",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Magnetism",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2563bbb3c511f1ea89dd12e60f7be289"
+    },
+    {
+        "question": "3 किलोग्राम द्रव्यमान की एक वस्तु पर दो बल काम कर रहे हैं। पहला बल $F_1= < -2 N, -3 N>$ है और दूसरा बल $F_2 = < -1 N, 1 N>$ है। वस्तु की त्वरण की दर और दिशा क्या है?\n\nA. <-1, -2/3> m/s², 213.7°\nB. <1, 2/3> m/s², 180°\nC. <1, -2/3> m/s², 33.7°\nD. <-1, 2/3> m/s², 146.3°",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5d0f5f1fc2f4acde488bbebbb301f5a9"
+    },
+    {
+        "question": "लटके हुए एक पेंडुलम का जड़त्व क्षण क्या है जिसका द्रव्यमान $4 kg$ है और जो धुरी से $2 m$ दूर है?\n\nA. 16 kgm^2\nB. 8 kgm^2\nC. 4 kgm^2\nD. 32 kgm^2",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "f13ab828dc877b2c847244374b176a0e"
+    },
+    {
+        "question": "सूर्य के समान रंग वाले एक तारे की चमक सूर्य की तुलना में 81 गुना अधिक पाई गई है। इसकी त्रिज्या सूर्य की तुलना में कितनी है?\n\nA. सूर्य की त्रिज्या का 12 गुना\nB. सूर्य की त्रिज्या का 9 गुना\nC. सूर्य की त्रिज्या का 6 गुना\nD. सूर्ज की त्रिज्या का 3 गुना",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d4ad069c068cbcd7e0770a600e6baec4"
+    },
+    {
+        "question": "एक गेंद जिसका द्रव्यमान 3 kg है और वेग 5 m/s है, दूसरी गेंद से टकराती है जिसका द्रव्यमान 7 kg है और वेग -2 m/s है। यदि गतिज ऊर्जा की 25% हानि हो जाती है, तो गेंदों की अंतिम वेग क्या होंगे?\n\nA. v1 = -2.28 m/s या 3.78 m/s, v2 = 0.83 m/s या -1.33 m/s\nB. v1 = -2.78 m/s या 2.28 m/s, v2 = 1.33 m/s या -0.83 m/s\nC. v1 = -1.78 m/s या 3.28 m/s, v2 = 0.33 m/s या -1.83 m/s\nD. v1 = -3.28 m/s या 1.78 m/s, v2 = 2.33 m/s या -0.33 m/s",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6a64c3d85bea5ccac6a86385119a1c25"
+    },
+    {
+        "question": "साधारण आवर्ती गति किस प्रकार की प्रणालियों/वस्तुओं में प्रदर्शित होती है?\n\nA. संधारित्र के साथ प्रेरक, द्रव्यमान के साथ स्प्रिंग, उत्प्लावक बल\nB. वैद्युत बल, दबाव, घूर्णन गति\nC. गुरुत्वाकर्षण बल, वायु प्रतिरोध, तनाव\nD. चरखी प्रणाली, घर्षण बल, चुंबकीय बल",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Waves and Vibrations",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ff73db07e12db6bd3298d7055db5425a"
+    },
+    {
+        "question": "70°C पर एक 12 ग्राम एल्यूमीनियम का टुकड़ा (cp = .215 cal/g°C) को 15°C पर 35 ग्राम पानी से भरे एक बीकर में रखा जाता है। वे किस तापमान पर थर्मल समतुल्यता प्राप्त करेंगे?\n\nA. 16.3°C\nB. 18.8°C\nC. 22.1°C\nD. 20.5°C",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "fb101dbddcba3564b15e714c01278f98"
+    },
+    {
+        "question": "प्रश्न: एक्चुएटर और ट्रांसड्यूसर क्या हैं?\n\nA. एक्चुएटर वाल्व का संचालन करते हैं, जबकि ट्रांसड्यूसर ऊर्जा के प्रकारों को परिवर्तित करते हैं।\nB. एक्चुएटर ऊर्जा के प्रकारों को परिवर्तित करते हैं, जबकि ट्रांसड्यूसर वाल्व का संचालन करते हैं।\nC. एक्चुएटर और ट्रांसड्यूसर दोनों ऊर्जा को परिवर्तित करते हैं और वाल्व को नियंत्रित करते हैं।\nD. ट्रांसड्यूसर वाल्व का नियंत्रण करते हैं, जबकि एक्चुएटर ऊर्जा के रूपों को रूपांतरित करते हैं।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d724fc052667de618d379810a4841f2d"
+    },
+    {
+        "question": "माइक अपने स्पीकर को एक अज्ञात आवृत्ति पर बजा रहा है। उसकी दोस्त, एम्मा, अपनी साइकिल पर चढ़ती है और माइक से एक समान गति से दूर जाती है, अपने सिर के ऊपर क्षैतिज रूप से एक खुला हवा का स्तंभ पकड़कर। माइक के स्पीकर से आने वाली ध्वनि की आवृत्ति क्या थी?\n\nA. 1124.33Hz\nB. 1119.33Hz, 1109.33Hz\nC. 1130.33Hz\nD. 1104.33Hz\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2093c8d517f2cbafdc102d3fc64450b6"
+    },
+    {
+        "question": "एक $5 \\text{ kg}$ भार को $4 \\text{ m}$ के एक ढाल पर $ \\pi / 4$ के कोण पर ऊपर धकेलने के लिए कितना काम करना पड़ेगा?\n\nA. 196.8 J\nB. 72.4 J\nC. 110.2 J\nD. 138.6 J\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4a595a3db2acb18c62672eb6fb7cbece"
+    },
+    {
+        "question": "संतुलित उत्तोलक पर दो वजन हैं, पहला वजन $7 kg$ का है और दूसरा वजन $4 kg$ का है। यदि पहला वजन फुल्क्रम से $3 m$ दूर है, तो दूसरा वजन फुल्क्रम से कितनी दूरी पर है?\n\nA. 6 m\nB. 4.5 m\nC. 5.25 m\nD. 3.75 m",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "91fb12af5d407df0d6aa8453ea3c1749"
+    },
+    {
+        "question": "प्रश्न: प्रत्यावर्ती धारा को क्यों संग्रहित नहीं किया जा सकता है?\n\nA. प्रत्यावर्ती धारा को बिना रूपांतरण के सीधे बैटरियों में संग्रहित किया जा सकता है।\nB. प्रत्यावर्ती धारा को संग्रहित नहीं किया जा सकता क्योंकि इसे संभालना बहुत खतरनाक है।\nC. इसके निरंतर दोलन के कारण प्रत्यावर्ती धारा का संग्रहण असंभव है।\nD. प्रत्यावर्ती धारा को सीधे संग्रहित नहीं किया जा सकता, परंतु इसे उपकरणों जैसे बैटरियों और कैपैसिटर्स का उपयोग करके डीसी में परिवर्तित करके संग्रहित किया जा सकता है।\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1511518a79d01ab7db6584310a3a0bc7"
+    },
+    {
+        "question": "बल और आवेग में क्या अंतर है?\n\nA. बल संवेग में परिवर्तन है, जबकि आवेग उस परिवर्तन का कारण है।\nB. आवेग वेग में परिवर्तन है, जबकि बल उस परिवर्तन का कारण है।\nC. बल वेग में परिवर्तन है, जबकि आवेग उस परिवर्तन का कारण है।\nD. आवेग संवेग में परिवर्तन है, जबकि बल उस परिवर्तन का कारण है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "15b0d0e5a16ba5dcaefdb92888663556"
+    },
+    {
+        "question": "$(-4i - 5j + 2k)$ को सामान्यीकृत कैसे करें?\n\nA. $\\frac{1}{3\\sqrt{5}}(4i - 5j + 2k)$\nB. $\\frac{1}{3\\sqrt{5}}(-4i - 5j - 2k)$\nC. $\\frac{1}{3\\sqrt{5}}(-4i + 5j + 2k)$\nD. $\\frac{1}{3\\sqrt{5}}(-4i - 5j + 2k)$",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "000dbfaa185284f2e22b746f6714e2aa"
+    },
+    {
+        "question": "7 किलोग्राम द्रव्यमान वाली एक गेंद जो 3 m/s की गति से चल रही है, एक स्थिर गेंद से टकराती है जिसका द्रव्यमान 18 किलोग्राम है। यदि पहली गेंद गति करना बंद कर देती है, तो दूसरी गेंद कितनी तेजी से चल रही है?\n\nA. 2.34 m/s\nB. 0.58 m/s\nC. 1.17 m/s\nD. 0.89 m/s",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b3db09717d1adffb7b6f914a5b0038a0"
+    },
+    {
+        "question": "यदि $42 cm$ लंबे एक स्प्रिंग की लंबाई $87 cm$ हो जाती है जब उस पर $1 kg$ वजन लटका होता है, तो स्प्रिंग का स्थिरांक क्या है?\n\nA. 15.334 N/m\nB. 21.778 N/m\nC. 34.216 N/m\nD. 27.492 N/m",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "55f091cc6cccf77097758df95562ecc2"
+    },
+    {
+        "question": "(-300i + 200j - 150k) और (i + j -7k) का क्रॉस प्रोडक्ट क्या है?\n\nA. -1250i - 2200j - 550k\nB. -1250i - 2250j - 500k\nC. -1350i - 2150j - 600k\nD. -1200i - 2300j - 450k\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "da722112ef13541d40449933f8f8d780"
+    },
+    {
+        "question": "क्वांटम भौतिकी क्या है?\n\nA. क्वांटम भौतिकी वह भौतिकी की शाखा है जो परमाणु और सूक्ष्म परमाणु स्तर पर कणों के गुणों और व्यवहारों की व्याख्या क्वांटीकृत ऊर्जा स्तरों और संभाव्यताओं का उपयोग करके करती है।\nB. क्वांटम भौतिकी ऊष्मा स्थानांतरण, ऊष्मगतिकी, और विभिन्न तापमान स्थितियों में कणों के व्यवहार का विज्ञान है।\nC. क्वांटम भौतिकी गुरुत्वाकर्षण का अध्ययन है और इसके प्रभाव ब्रह्मांड में आकाशीय पिंडों पर होते हैं।\nD. क्वांटम भौतिकी वह क्षेत्र है जो गति के नियमों और वस्तुओं पर कार्यरत बलों पर केंद्रित है जो मैक्रोस्कोपिक पैमानों पर होते हैं।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Atomic Physics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "22f74c4dbb4a7b50bb7ec5682985b0e2"
+    },
+    {
+        "question": "एक वस्तु जिसका द्रव्यमान $4 kg$ है, उस पर दो बल कार्य कर रहे हैं। पहला बल $F_1= <8 N, -6 N>$ है और दूसरा बल $F_2 = <2 N, 7 N>$ है। वस्तु की त्वरण की दर और दिशा क्या है?\n\nA. 2.5 m/s², 10.3°\nB. 3.1 m/s², 4.2°\nC. 2.5 m/s², 5.7°\nD. 1.9 m/s², 5.7°",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "42dc6d6e8bc6e75f1ae2fb7c93473c04"
+    },
+    {
+        "question": "एक ठोस डिस्क, जो वामावर्त घूम रही है, का द्रव्यमान $9 kg$ और त्रिज्या $4 m$ है। यदि डिस्क के किनारे पर एक बिंदु डिस्क की त्रिज्या के लंबवत दिशा में $15 m/s$ की गति से चल रहा है, तो डिस्क का कोणीय संवेग और वेग क्या है?\n\nA. 30.2 rad/s, 2184.6 kgm²/s\nB. 23.6 rad/s, 1696.5 kgm²/s\nC. 18.4 rad/s, 1392.3 kgm²/s\nD. 25.8 rad/s, 1903.7 kgm²/s",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b205fdc316030520626f173560ccc6a2"
+    },
+    {
+        "question": "विद्युतचुंबकीय बल विद्युत उत्पादन से कैसे संबंधित है?\n\nA. विद्युतचुंबकीय बल विद्युत से असंबंधित है।\nB. विद्युत रासायनिक प्रतिक्रियाओं द्वारा उत्पन्न होती है।\nC. विद्युत स्थिर आवेशों द्वारा निर्मित होती है।\nD. चुंबकों को तारों के माध्यम से चलाने पर विद्युत उत्पन्न होती है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Magnetism",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a73c2a467d64202fff41c7b2ffd8a79d"
+    },
+    {
+        "question": "एक वस्तु जिसका द्रव्यमान $6 kg$ है, $27 m/s$ की गति से एक सतह पर चल रही है जिसका गतिज घर्षण गुणांक $6$ है। इस वस्तु को $8 m/s^2$ की त्वरण देने के लिए कितनी शक्ति लगेगी?\n\nA. 9563.2 W\nB. 10234.7 W\nC. 12048.4 W\nD. 10821.6 W",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "03dee4fd7e5ccdfa26724a954f29ec9b"
+    },
+    {
+        "question": "एक कंटेनर के अंदर की गैस 84 Pa का दबाव डालती है और उसका तापमान 420 K है। यदि कंटेनर में दबाव 64 Pa हो जाता है और कंटेनर के आयतन में कोई परिवर्तन नहीं होता है, तो गैस का नया तापमान क्या होगा?\n\nA. 400 K\nB. 320 K\nC. 480 K\nD. 240 K\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "002afedbbdd9a7276c1be83a6d5eff73"
+    },
+    {
+        "question": "मनुष्य किन ध्वनि तरंगों को सुन सकते हैं?\n\nA. मनुष्य 20-20,000 Hz की सीमा में ध्वनियों को सुन सकते हैं।\nB. मनुष्य 10-10,000 Hz की सीमा में ध्वनियों को सुन सकते हैं।\nC. मनुष्य 30-30,000 Hz की सीमा में ध्वनियों को सुन सकते हैं।\nD. मनुष्य 5-50,000 Hz की सीमा में ध्वनियों को सुन सकते हैं।\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "00aca24d71425154d81c8fcaaf2d793e"
+    },
+    {
+        "question": "एक प्रोजेक्टाइल को जमीन से $24 m/s$ की वेग से और $(2\\pi)/3$ के कोण पर दागा गया है। प्रोजेक्टाइल को जमीन पर गिरने में कितना समय लगेगा?\n\nA. 3.89 s\nB. 4.67 s\nC. 5.12 s\nD. 4.24 s",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "95120496bf0fd463d07951a2af4949e9"
+    },
+    {
+        "question": "2 किलोग्राम द्रव्यमान वाली एक गेंद 4 m/s की गति से चल रही है और वह एक विश्राम पर रहने वाली 4 किलोग्राम द्रव्यमान की गेंद से लोचदार रूप से टकराती है। टकराव के बाद की गेंदों की वेग क्या हैं?\n\nA. -2.67 m/s, 1.33 m/s\nB. 3.33 m/s, 1.67 m/s\nC. 1.33 m/s, -2.67 m/s\nD. -1.33 m/s, 2.67 m/s",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9370f69f2054745d42ec999f25ecbba3"
+    },
+    {
+        "question": "एक मॉडल ट्रेन, जिसका द्रव्यमान $4 kg$ है, $2 m$ की त्रिज्या वाली वृत्ताकार पटरी पर चल रही है। यदि ट्रेन की गतिज ऊर्जा $4 j$ से बदलकर $15 j$ हो जाती है, तो पटरियों द्वारा लगाई गई केन्द्राभिमुख बल में कितनी परिवर्तन आएगी?\n\nA. 13 N\nB. 15 N\nC. 11 N\nD. 9 N",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "88b4d29fa084b1b37072f14156da5117"
+    },
+    {
+        "question": "$(4 i + 4 j + 2 k)$ का मानकीकरण कैसे करते हैं?\n\nA. 1/2i + 1/2j + 1/4k\nB. 2/3i + 2/3j + 1/3k\nC. 1/3i + 1/3j + 2/3k\nD. 2/3i + 1/3j + 2/3k",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a4f02777034c67d76d7d9111d3d9ed80"
+    },
+    {
+        "question": "कौन सी नाभिकीय प्रतिक्रिया अल्फा क्षय के रूप में वर्गीकृत की जाती है?\n\nA. अल्फा क्षय: द्रव्यमान संख्या 4 से बढ़ती है, परमाणु संख्या 2 से बढ़ती है, हीलियम-4 नाभिक उत्सर्जित करती है।\nB. बीटा क्षय: द्रव्यमान संख्या 4 से घटती है, परमाणु संख्या 2 से घटती है, हीलियम-4 नाभिक उत्सर्जित करती है।\nC. गामा क्षय: द्रव्यमान संख्या 4 से घटती है, परमाणु संख्या 2 से घटती है, हीलियम-4 नाभिक उत्सर्जित करती है।\nD. अल्फा क्षय: द्रव्यमान संख्या 4 से घटती है, परमाणु संख्या 2 से घटती है, हीलियम-4 नाभिक उत्सर्जित करती है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "0f87fd8e8c1215a6f0511be7baae650a"
+    },
+    {
+        "question": "कुछ बहुत गर्म चट्टानों का तापमान $280 ^o C$ है और उनकी विशिष्ट ऊष्मा $40  J/(Kg*K)$ है। इन चट्टानों को $30 L$ उबलते पानी में डाला गया है। यदि चट्टानों की ऊष्मा पानी को पूरी तरह से वाष्पित कर देती है, तो चट्टानों का न्यूनतम संयुक्त द्रव्यमान क्या है?\n\nA. 12732.5 kg\nB. 15000 kg\nC. 9404.2 kg\nD. 4508.1 kg\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a532986afe472f24d22f0e89b005d36d"
+    },
+    {
+        "question": "संवहन आपके शरीर को ठंडा कैसे कर सकता है?\n\nA. संवहन आपके शरीर को गर्म करता है जिससे उसके चारों ओर गर्म हवा या पानी का संचलन होता है।\nB. संवहन आपके शरीर को ठंडा करता है जिससे चारों ओर की हवा या पानी का तापमान बढ़ जाता है।\nC. संवहन हवा या पानी में गर्मी को समान रूप से वितरित करके आपके शरीर के तापमान को बनाए रखने में मदद करता है।\nD. संवहन आपके शरीर के आस-पास की गर्म हवा या पानी की परत को हटाकर आपके शरीर को ठंडा करता है, जिससे आपका शरीर एक नई परत को गर्म करने के लिए मजबूर होता है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6a66a412778145e07faac8302d6da7d8"
+    },
+    {
+        "question": "दिए गए रेडियोएक्टिव क्षय में, यदि D2 का द्रव्यमान संख्या और परमाणु संख्या क्रमशः 176 और 71 है, तो D की द्रव्यमान संख्या और परमाणु संख्या क्या है?\nD----->D1------->D2\n  बीटा    अल्फा कण\n\nA. द्रव्यमान संख्या: 180, परमाणु संख्या: 74\nB. द्रव्यमान संख्या: 176, परमाणु संख्या: 71\nC. द्रव्यमान संख्या: 184, परमाणु संख्या: 70\nD. द्रव्यमान संख्या: 180, परमाणु संख्या: 72",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "bba89f3ec5e3225b0996a589460ac700"
+    },
+    {
+        "question": "यदि एक परिपथ में $44 \\Omega$ के प्रतिरोध के साथ $2 V$ का वोल्टेज लगाया जाए तो कितनी शक्ति उत्पन्न होगी?\n\nA. 0.18 वाट\nB. 0.036 वाट\nC. 0.045 वाट\nD. 0.09 वाट",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1947de8784060e7907a7600d6fa98d22"
+    },
+    {
+        "question": "यदि एक गेंद जिसका द्रव्यमान $5 kg$ है और वेग $6 m/s$ है, दूसरी गेंद से टकराती है जिसका द्रव्यमान $3 kg$ है और वेग $-7 m/s$ है। यदि गतिज ऊर्जा का $40%$ खो जाता है, तो गेंदों के अंतिम वेग क्या होंगे?\n\nA. v1: -3.16 m/s या 0.91 m/s; v2: 8.27 m/s या -1.48 m/s\nB. v1: -2.47 m/s या 1.33 m/s; v2: 7.42 m/s या -0.53 m/s\nC. v1: -2.85 m/s या 1.12 m/s; v2: 7.95 m/s या -0.76 m/s\nD. v1: -3.52 m/s या 0.67 m/s; v2: 8.66 m/s या -1.89 m/s",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "92c3c519c74512c323d366bfcdef5f81"
+    },
+    {
+        "question": "किसमें अधिक संवेग है, एक वस्तु जिसका द्रव्यमान $9kg$ है और जो $8m/s$ की गति से चल रही है या एक वस्तु जिसका द्रव्यमान $6kg$ है और जो $14m/s$ की गति से चल रही है?\n\nA. दूसरी वस्तु (6kg, 14m/s)\nB. संवेग की तुलना नहीं की जा सकती\nC. पहली वस्तु (9kg, 8m/s)\nD. दोनों का संवेग समान है",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "abca0edaa4b679d8de62c4b3045981bc"
+    },
+    {
+        "question": "$6 L$ के कंटेनर में गैस A और B के क्रमशः $5$ मोल और $6$ मोल हैं। गैस B के तीन मोलीक्यूल गैस A के दो मोलीक्यूल के साथ बंधते हैं और प्रतिक्रिया से तापमान $480^oK$ से $270^oK$ तक बदल जाता है। दबाव में कितना परिवर्तन होता है?\n\nA. दबाव परिवर्तन: 4987500 N/m^2\nB. दबाव परिवर्तन: 7202100 N/m^2\nC. दबाव परिवर्तन: 6190950 N/m^2\nD. दबाव परिवर्तन: 3754300 N/m^2",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "679884d5560d34f38634bc6d23c9a4d7"
+    },
+    {
+        "question": "बल घर्षण को कैसे प्रभावित करता है?\n\nA. बल सतहों के बीच संपर्क को कम करके घर्षण को प्रभावित करता है।\nB. बल दो पर्ची सतहों को एक साथ धकेल कर घर्षण को प्रभावित करता है।\nC. बल घर्षण को संपर्क के सतह क्षेत्र को बदलकर प्रभावित करता है।\nD. बल गति की गति को बढ़ाकर घर्षण को प्रभावित करता है।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "0afe382f5912df399b5584cf28176b01"
+    },
+    {
+        "question": "एक 300g की गेंद जो विश्राम में है, उसे बल्ले से 150N की ताकत से मारा जाता है। यदि बल्ला, गेंद के साथ 0.02 सेकंड के लिए संपर्क में था, तो गेंद की वेग क्या है?\n\nA. 5 m/से\nB. 20 m/से\nC. 10 m/से\nD. 15 m/से",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "3ccb9b23c7052eaf4cf95658f569c6fe"
+    },
+    {
+        "question": "एक तीर को 20 मीटर दूर निशाने पर छोड़ा गया है। तीर को 60 मीटर/सेकंड की क्षैतिज वेग से छोड़ा गया है। तीर हवा में कितनी देर तक रहता है, और जब यह निशाने के करीब पहुंचता है तो कितना नीचे गिरता है?\n\nA. 0.28s, 0.48m\nB. 0.45s, 0.65m\nC. 0.33s, 0.53m\nD. 0.37s, 0.59m\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1b3d8d31fff129d0813815710db06ac1"
+    },
+    {
+        "question": "यदि 3 किलोग्राम द्रव्यमान की गेंद जो 1 m/s की गति से चल रही है, वह एक स्थिर गेंद से टकराती है जिसका द्रव्यमान 7 किलोग्राम है, और पहली गेंद रुक जाती है, तो दूसरी गेंद कितनी तेज़ी से चल रही है?\n\nA. 3/7 m/s\nB. 7/3 m/s\nC. 1/3 m/s\nD. 4/7 m/s\n\nउत्तर:",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ab3d95905f3c8952267287aa52928f97"
+    },
+    {
+        "question": "एक पर्यटक ने गणना की कि यदि वह 4 mph की गति से रेलवे स्टेशन की ओर चलता है, तो वह ट्रेन को आधे घंटे से चूक जाएगा, परंतु यदि वह 5 mph की गति से चलता है, तो वह ट्रेन के प्रस्थान से 6 मिनट पहले स्टेशन पहुँच जाएगा?\n\nA. ट्रेन स्टेशन 10 मील दूर है\nB. ट्रेन स्टेशन 12 मील दूर है\nC. ट्रेन स्टेशन 16 मील दूर है\nD. ट्रेन स्टेशन 14 मील दूर है\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "223d4eb71ab10937f9cc9a483a7ab143"
+    },
+    {
+        "question": "एक वस्तु $(8, 6, 9)$ पर विश्राम में है और जब यह बिंदु B की ओर चलती है तो $1 m/s²$ की दर से निरंतर त्वरण करती है। यदि बिंदु B $(6, 4, 3)$ पर है, तो वस्तु को बिंदु B तक पहुँचने में कितना समय लगेगा? मान लीजिये कि सभी निर्देशांक मीटर में हैं।\n\nA. 5.12s\nB. 3.64s\nC. 2.89s\nD. 4.53s",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1c9cceaf5dbc1d1d469b4b2354dfaac5"
+    },
+    {
+        "question": "गति और वेग में क्या अंतर है?\n\nA. गति में परिमाण और दिशा होती है; वेग में केवल परिमाण होता है।\nB. गति और वेग दोनों में परिमाण और दिशा होती है।\nC. गति में केवल दिशा होती है; वेग में परिमाण और दिशा होती है।\nD. गति में केवल परिमाण होता है; वेग में परिमाण और दिशा होती है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7c9930328f07c8b252e1c593f57f1b01"
+    },
+    {
+        "question": "एक छात्र पुलिस की सायरन सुनता है। छात्र जो आवृत्ति सुनता है उसमें क्या परिवर्तन होगा?\n\nA. सायरन से छात्र की दूरी आवृत्ति को बदल देती है।\nB. सायरन की तीव्रता के कारण आवृत्ति में परिवर्तन होता है।\nC. अन्य ध्वनियों के साथ हस्तक्षेप के कारण आवृत्ति में परिवर्तन होता है।\nD. स्रोत और डिटेक्टर की वेग में अंतर के कारण डॉपलर प्रभाव आवृत्ति को बदल देता है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9e64055834bd5c5485919274ebd52d25"
+    },
+    {
+        "question": "12 C का आवेश हर 3 s में एक परिपथ से होकर गुजरता है। यदि परिपथ 6 W की शक्ति उत्पन्न कर सकता है, तो परिपथ का प्रतिरोध क्या है?\n\nA. 0.375Ω\nB. 0.75Ω\nC. 0.1875Ω\nD. 1.5Ω",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7378b8de0348ec3dc9c9fafe9fc75f30"
+    },
+    {
+        "question": "एक परिपथ में A और B बिंदुओं के माध्यम से $8 C$ का आवेश गुजर रहा है। यदि आवेश की विद्युत क्षमता $32 J$ से $4 J$ तक बदल जाती है, तो A और B बिंदुओं के बीच वोल्टता क्या है?\n\nA. 3.5 V\nB. 2.5 V\nC. 4.5 V\nD. 5.5 V",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7c1b8166670eb50079805320e7ff4524"
+    },
+    {
+        "question": "एक परिपथ पर बिंदु A और B के माध्यम से $16 C$ का आवेश गुजर रहा है। यदि आवेश की विद्युत क्षमता $32 J$ से बदलकर $4 J$ हो जाती है, तो बिंदु A और B के बीच वोल्टता क्या है?\n\nA. 1.75V\nB. 2.25V\nC. 1.25V\nD. 3.5V",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5ded071f9b1b1d0dce2a81e481be6718"
+    },
+    {
+        "question": "क्या कोई ऐसा कण है जिसका कोई द्रव्यमान नहीं है?\n\nA. इलेक्ट्रॉन\nB. न्यूट्रॉन\nC. फोटॉन\nD. प्रोटॉन",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "be3f44b81a815eed5299d14512f36552"
+    },
+    {
+        "question": "$4 m$ लंबाई और $4 kg$ द्रव्यमान वाली एक छड़ी पर कितना टॉर्क लागू करना पड़ेगा ताकि $1 s$ में उसकी क्षैतिज घूर्णन आवृत्ति $7 Hz$ से बदल सके?\n\nA. 187.2 Nm\nB. 351.8 Nm\nC. 234.6 Nm\nD. 292.4 Nm",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4eec55606c615e651e2d560ff3b7f47e"
+    },
+    {
+        "question": "गैस एक धातु कंटेनर में बंद है जिसके ऊपर एक चल सकने वाला पिस्टन है। निचले हिस्से में एक मोमबत्ती रखकर नीचे से हीट दी जाती है, निम्नलिखित में से कौन सत्य है?\n\nA. अगर पिस्टन स्थिर रहता है तो तापमान कम होना चाहिए।\nB. अगर पिस्टन स्थिर रहता है तो तापमान स्थिर रहेगा।\nC. अगर पिस्टन स्थिर रहता है तो दबाव कम होना चाहिए।\nD. अगर पिस्टन स्थिर रहता है तो तापमान बढ़ना चाहिए।\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "cbdda8ea8ff9a7cec1ff66603a5eb32d"
+    },
+    {
+        "question": "यदि कोई प्रक्षेप्य $(2\\pi)/3$ कोण पर और $6 m/s$ की वेग से चलाया जाता है, तो यह अपनी अधिकतम ऊँचाई कब प्राप्त करेगा?\n\nA. 1.06 s\nB. 0.79 s\nC. 0.26 s\nD. 0.53 s",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "993322dc729aebab3b5ed74dc55d65cf"
+    },
+    {
+        "question": "यदि दबाव को छोटे क्षेत्र में केंद्रित किया जाता है, तो क्या होता है?\n\nA. जब बल को छोटे क्षेत्र में केंद्रित किया जाता है, तो दबाव कम हो जाता है।\nB. जब बल को छोटे क्षेत्र में केंद्रित किया जाता है, तो दबाव अनिश्चित हो जाता है।\nC. जब बल को छोटे क्षेत्र में केंद्रित किया जाता है, तो दबाव स्थिर रहता है।\nD. जब बल को छोटे क्षेत्र में केंद्रित किया जाता है, तो दबाव बढ़ जाता है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "98cb27d543b0747a8f6eaa444c2d4069"
+    },
+    {
+        "question": "एक बड़े रिप्पल टैंक में, 30 Hz की आवृत्ति पर काम करने वाली एक वेव उत्पादन मशीन 0.5 m की दूरी में 25 पूर्ण तरंगें उत्पन्न करती है। एक व्यक्तिगत तरंग की वेग क्या होगी?\n\nA. 0.9 m/s\nB. 0.6 m/s\nC. 1.2 m/s\nD. 0.3 m/s",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e704130eca3a910cae57b61d08e8b28b"
+    },
+    {
+        "question": "रगड़ने से विद्युत आवेश कैसे उत्पन्न हो सकते हैं?\n\nA. रगड़ने से सामग्रियों के बीच घर्षण के कारण विद्युत आवेश उत्पन्न होते हैं।\nB. दो सामग्रियों को रगड़ने से इलेक्ट्रॉन प्रवास होता है, जिससे एक सामग्री नकारात्मक रूप से चार्ज हो जाती है और दूसरी सकारात्मक रूप से।\nC. रगड़ने से सामग्रियों में प्रोटॉन का आदान-प्रदान होता है, जिससे विद्युत आवेश उत्पन्न होते हैं।\nD. दो सामग्रियों को रगड़ने से गर्मी उत्पन्न होती है, जो विद्युत आवेशों का उत्पादन करती है।\n\nउत्तर:",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "98bc94176ccf3e23c17230d6d6c16d0b"
+    },
+    {
+        "question": "$(j+2k)$ का $(i+2j)$ पर प्रक्षेपण क्या है?\n\nA. 4/5j + 2/5k\nB. 3/5j + 1/5k\nC. 2/5j + 4/5k\nD. 1/5j + 3/5k",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "47b565a7873213857d7280f59dbe30eb"
+    },
+    {
+        "question": "एक प्रक्षिप्त वस्तु को $pi/8$ के कोण पर और $5 m/s$ की वेग से दागा गया है। यह प्रक्षिप्त वस्तु कितनी दूरी पर गिरेगी?\n\nA. 2.4 m\nB. 3.0 m\nC. 1.2 m\nD. 1.8 m",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "3fd438d24356777cfba75eed3e03b537"
+    },
+    {
+        "question": "4 कूलॉम का चार्ज एक सर्किट पर बिंदु A और B से गुजर रहा है। यदि चार्ज का विद्युत क्षमता 42 J से बदलकर 15 J हो जाता है, तो बिंदु A और B के बीच का वोल्टता क्या है?\n\nA. 3.25V\nB. 6.75V\nC. 9.50V\nD. 12.75V",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "44c96fa502705bf08d2bf45828cdb024"
+    },
+    {
+        "question": "किसी वस्तु का केंद्रीय गुरुत्वाकर्षण का स्थान उसके द्रव्यमान के वितरण पर क्यों निर्भर करता है?\n\nA. केंद्रीय गुरुत्वाकर्षण वस्तु के तापमान और दाब पर निर्भर करता है।\nB. केंद्रीय गुरुत्वाकर्षण आसपास के वातावरण और ऊँचाई पर निर्भर करता है।\nC. केंद्रीय गुरुत्वाकर्षण वस्तु के रंग और बनावट पर निर्भर करता है।\nD. केंद्रीय गुरुत्वाकर्षण द्रव्यमान के वितरण और वस्तु के आकार और प्रकार पर निर्भर करता है।\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "49604a91253cf8b4b5c08139a10323f6"
+    },
+    {
+        "question": "आप $<0,8,5>$ को कैसे सामान्यीकृत करेंगे?\n\nA. (0, 5/sqrt(89), 8/sqrt(89))\nB. (5/sqrt(89), 8/sqrt(89), 0)\nC. (0, 8/sqrt(89), 5/sqrt(89))\nD. (8/sqrt(89), 0, 5/sqrt(89))",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5b8f00df3955c3dc22df15924b6c9986"
+    },
+    {
+        "question": "$<7,-3, 9>$ और $<4,2,-9>$ का डॉट उत्पाद क्या है?\n\nA. -60\nB. -57\nC. -58\nD. -59\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b72acee98f9d3eea22bf29d8b52abc14"
+    },
+    {
+        "question": "ऑक्सीजन के एक आयन के लिए विशिष्ट विद्युत आवेश क्या है?\n\nA. -1\nB. +2\nC. +1\nD. -2\n\nउत्तर:",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ea3a586d8aabab6f7fd508c33690ed7a"
+    },
+    {
+        "question": "क्या लचीली टक्कर में संवेग संरक्षित होता है लेकिन अलचीली टक्कर में नहीं?\n\nA. संवेग केवल अलचीली टक्करों में संरक्षित होता है।\nB. संवेग दोनों लचीली और अलचीली टक्करों में संरक्षित होता है।\nC. संवेग केवल लचीली टक्करों में संरक्षित होता है।\nD. किसी भी प्रकार की टक्कर में संवेग संरक्षित नहीं होता है।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9b9dd72e50ee5da476a0b2bf367bc8f0"
+    },
+    {
+        "question": "0.145 किलोग्राम की बेसबॉल को 40 मीटर/सेकेंड की गति से फेंका जाता है। बेसबॉल का संवेग क्या है?\n\nA. 7.25 किलोग्राम मी/से\nB. 11.6 किलोग्राम मी/से\nC. 5.8 किलोग्राम मी/से\nD. 2.9 किलोग्राम मी/से",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "54f12230c881b0bdd4afe29e9b9827ef"
+    },
+    {
+        "question": "एक वसंत जिसकी स्थिरता $6/7 (kg)/s^2$ है, जमीन पर पड़ा हुआ है और एक सिरा दीवार से जुड़ा हुआ है। एक वस्तु जिसका द्रव्यमान $3/5 kg$ और गति $3/4 m/s$ है, वसंत से टकराती है और वसंत को दबाती है जब तक कि वह रुक नहीं जाती। वसंत कितना संकुचित होगा?\n\nA. √(97/480) m\nB. √(151/480) m\nC. √(189/480) m\nD. √(289/480) m",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "98069cdfa5c62c7eb6aaba859aa4c814"
+    },
+    {
+        "question": "मैं प्रत्यावर्ती धारा को कैसे माप सकता हूँ?\n\nA. समानांतर में एक वोल्टमीटर का उपयोग करें।\nB. डीसी एमीटर के साथ मापें।\nC. ओम के नियम का उपयोग करके गणना करें।\nD. एक एसी एमीटर या एक क्लैंप मीटर का उपयोग करें।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Knowledge Application",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "37f4619bd91e20f4a999f823eb46b6b0"
+    },
+    {
+        "question": "क्या मुक्त-पतन करती वस्तु का त्वरण समान होता है?\n\nA. नहीं, यह हमेशा असमान होता है\nB. हाँ, बाहरी शक्तियों के बिना एक सरलीकृत मॉडल में\nC. हाँ, बाहरी शक्तियों को ध्यान में रखते हुए भी\nD. नहीं, केवल जब बाहरी शक्तियां मौजूद होती हैं",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "832923ea5319daa6c2b7110722c4ae8c"
+    },
+    {
+        "question": "एक प्रक्षेप्य को $pi/8$ के कोण पर और $12 m/s$ की गति से जमीन से दागा जाता है। जब प्रक्षेप्य अपनी अधिकतम ऊंचाई पर होता है, तो शुरुआती बिंदु से इसकी दूरी, ऊंचाई और क्षैतिज दूरी को ध्यान में रखते हुए, क्या होगी?\n\nA. 4.8m\nB. 5.7m\nC. 5.2m\nD. 6.1m",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ab7ed0a8cc888f4eb45eb90dec726c31"
+    },
+    {
+        "question": "कैलोरीमीटर किससे बने होते हैं और क्यों?\n\nA. कैलोरीमीटर पतली एल्युमिनियम शीट्स से बने होते हैं।\nB. कैलोरीमीटर पतली पीतल की शीट्स से बने होते हैं।\nC. कैलोरीमीटर पतली तांबे की शीट्स से बने होते हैं।\nD. कैलोरीमीटर पतली स्टेनलेस स्टील की शीट्स से बने होते हैं।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "dc6c07c0e75ab6941002780271b226c4"
+    },
+    {
+        "question": "प्रश्न: $ || < -2, 3, 6 > || $ क्या है?\n\nA. 9\nB. 5\nC. 7\nD. 8\n\nउत्तर:",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c45533e45620baaaca848cf54847dd00"
+    },
+    {
+        "question": "एक चालक के अंदर विद्युत क्षेत्र शून्य क्यों होता है?\n\nA. एक चालक के अंदर विद्युत क्षेत्र शून्य होता है क्योंकि चालक सभी ऊर्जा को अवशोषित कर लेता है।\nB. चालकों में एक प्राकृतिक गुण होता है जो उनके अंदर किसी भी विद्युत क्षेत्र के बनने से रोकता है।\nC. एक चालक के अंदर विद्युत क्षेत्र मौजूद होता है, परंतु यह इतना कमजोर होता है कि वह मुक्त इलेक्ट्रॉनों पर कोई प्रभाव नहीं डाल पाता।\nD. स्थिर विद्युत संतुलन में, चालक के अंदर कोई विद्युत क्षेत्र नहीं होता है क्योंकि इससे मुक्त इलेक्ट्रॉन तेज़ी से गति करने लगेंगे, जो कि संतुलन की स्थिति का विरोध करता है।",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5265350324b0d2c139d7303f46a72e05"
+    },
+    {
+        "question": "एक मॉडल ट्रेन, जिसका द्रव्यमान $8 kg$ है, वह एक वृत्ताकार पटरी पर चल रही है जिसकी त्रिज्या $2 m$ है। यदि ट्रेन की गतिज ऊर्जा $8 j$ से बदलकर $48 j$ हो जाती है, तो पटरियों द्वारा लागू केन्द्राभिमुख बल में कितना परिवर्तन होगा?\n\nA. 20 N\nB. 60 N\nC. 80 N\nD. 40 N",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "0970ed5464a228e792497673e5176787"
+    },
+    {
+        "question": "एक गेंद जिसका द्रव्यमान $3 kg$ है और वह $8 m/s$ की गति से घूम रही है और यह एक विश्राम अवस्था में स्थित गेंद से जिसका द्रव्यमान $4 kg$ है, के साथ लोचदार रूप से टकराती है। टक्कर के बाद गेंदों की गति क्या होगी?\n\nA. v1 = 8 m/s, v2 = 0 m/s या v1 = -1.14 m/s, v2 = 6.86 m/s\nB. v1 = 4 m/s, v2 = 2 m/s\nC. v1 = 2 m/s, v2 = 4 m/s\nD. v1 = 6 m/s, v2 = 3 m/s",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "18645921232f7e355a112ce9a40b707a"
+    },
+    {
+        "question": "यदि एक रॉकेट जिसका द्रव्यमान 2900 टन है, $2/9 m/s^2$ की दर से लंबवत त्वरण करता है, तो 6 सेकंड में इसे अपने त्वरण को बनाए रखने के लिए कितनी शक्ति व्यायित करनी पड़ेगी?\n\nA. 50.1 MW\nB. 42.3 MW\nC. 35.9 MW\nD. 28.6 MW",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "15dab5827a1aa898025c1339867cdc28"
+    },
+    {
+        "question": "यदि C1, एक 4.7 µF कैपेसिटर, और C2, एक 3.3 µF कैपेसिटर श्रृंखला में हैं और उन पर 18 Vdc लागू किया गया है, तो C1 पर वोल्टेज कितना है?\n\nA. 4.86V\nB. 10.57V\nC. 12.34V\nD. 7.43V",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "25f535259f10181673ef7ce198e995fb"
+    },
+    {
+        "question": "एक गेंद को किसी कोण पर हवा में फेंका जाता है। गेंद के पथ के बहुत ऊपर, क्या हमेशा 0 होता है?\n\nA. क्षैतिज वेग\nB. वायु प्रतिरोध\nC. लंबवत वेग\nD. त्वरण",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "49e7935bf3a1d540ccf7f1fceb3c695a"
+    },
+    {
+        "question": "संतुलित उत्तोलक में दो वजन होते हैं, पहला वजन $7 kg$ का होता है और दूसरा वजन $25 kg$ का होता है। यदि पहला वजन फुलक्रम से $6 m$ दूर है, तो दूसरा वजन फुलक्रम से कितनी दूरी पर है?\n\nA. 1.34m\nB. 1.96m\nC. 2.12m\nD. 1.68m",
+        "answer": [
+            "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b973412b83cece304805e023304077b9"
+    },
+    {
+        "question": "7°C को केल्विन स्केल में कैसे बदलते हैं?\n\nA. 280K\nB. 283K\nC. 277K\nD. 290K",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "dc9cb752b56de07d59693388f7c762d9"
+    },
+    {
+        "question": "ध्वनि तरंगें अपवर्तन द्वारा कैसे यात्रा करती हैं?\n\nA. ध्वनि तरंगें तब अपवर्तन द्वारा यात्रा करती हैं जब वे सतहों से टकराकर उछलती हैं, जिससे गूंज और प्रतिध्वनि उत्पन्न होती है।\nB. ध्वनि तरंगें तब अपवर्तन द्वारा यात्रा करती हैं जब वे उस माध्यम के विभिन्न गुणों के कारण दिशा में परिवर्तन करती हैं जिसके माध्यम से वे गुजरती हैं, जिससे गति और तरंगदैर्घ्य में परिवर्तन होता है।\nC. ध्वनि तरंगें तब अपवर्तन द्वारा यात्रा करती हैं जब वे कई आवृत्तियों में विभाजित हो जाती हैं, जिससे ध्वनि विसरित हो जाती है।\nD. ध्वनि तरंगें तब अपवर्तन द्वारा यात्रा करती हैं जब उन्हें विभिन्न सामग्रियों द्वारा अवशोषित किया जाता है, जिससे डैम्पिंग प्रभाव होता है।",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "dc0f069cf52eb0b3e2c33025c6835390"
+    },
+    {
+        "question": "काँच में वापस परावर्तित सभी प्रकाश को यह सुनिश्चित करने के लिए कि तरल में कोई भी प्रकाश प्रेषित नहीं होता है, तरल का सबसे बड़ा अपवर्तनांक क्या हो सकता है?\n\nA. n_l = 1.50\nB. n_l ≥ 1.50\nC. n_l < 1.50\nD. n_l > 1.50",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Refraction",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6b13f7131337dc310a74a4204dd0394d"
+    },
+    {
+        "question": "Fg = mg और सार्वत्रिक गुरुत्वाकर्षण में क्या अंतर है?\n\nA. Fg = mg न्यूटन के गति के नियमों से उत्पन्न होता है, जबकि सार्वत्रिक गुरुत्वाकर्षण में गुरुत्वाकर्षण स्थिरांक (G), द्रव्यमान (M), और पृथ्वी की त्रिज्या (R) शामिल होती है।\nB. Fg = mg केवल पृथ्वी पर लागू होता है, जबकि सार्वत्रिक गुरुत्वाकर्षण सभी खगोलीय पिंडों पर लागू होता है।\nC. सार्वत्रिक गुरुत्वाकर्षण Fg = mg का विविध द्रव्यमानों वाली वस्तुओं के लिए एक सामान्यीकरण है।\nD. Fg = mg सार्वत्रिक गुरुत्वाकर्षण का छोटी वस्तुओं के लिए एक सरलीकृत संस्करण है।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "8fbf32dcdd84aaddc2220aeceb597597"
+    },
+    {
+        "question": "यदि कोई वस्तु 15 m/s की गति से चल रही है और 4 सेकंड में 19 m/s की गति तक त्वरित हो जाती है, तो वस्तु की त्वरण दर क्या थी?\n\nA. 1 m/s²\nB. 2 m/s²\nC. 1.5 m/s²\nD. 0.5 m/s²",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9aaf32657410932c4694127661932653"
+    },
+    {
+        "question": "एक परिपथ जिसमें $6 \\Omega$ का प्रतिरोध है उसमें एक फ्यूज है जो $8 A$ पर पिघल जाता है। क्या बिना फ्यूज को उड़ाए $12 V$ का वोल्टेज लगाया जा सकता है?\n\nA. नहीं, 12V फ्यूज को उड़ा देगा।\nB. नहीं, फ्यूज केवल 6V संभाल सकता है।\nC. हाँ, 12V फ्यूज को नहीं उड़ाएगा।\nD. हाँ, लेकिन केवल अगर प्रतिरोध को बढ़ाया जाए।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6b88510448b27f7a7451f2c4e6bb3aed"
+    },
+    {
+        "question": "यदि एक प्रक्षेप्य को $7 m/s$ की वेग से और $pi/3$ के कोण पर दागा गया है, तो वह उतरने से पहले कितनी दूरी तय करेगा?\n\nA. 5.12 m\nB. 4.33 m\nC. 6.28 m\nD. 3.67 m",
+        "answer": [
+            "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6d798cfd31085c72a3f54b7e3ad1c780"
+    },
+    {
+        "question": "सीरीज सर्किट क्या है?\n\nA. एक एकल-मार्ग सर्किट जहाँ प्रत्येक उपकरण में क्रमानुसार धारा प्रवाहित होती है।\nB. एक सर्किट जिसमें केवल एक उपकरण जुड़ा होता है।\nC. एक सर्किट जिसमें धारा प्रवाहित होने के लिए बहुमार्गीय मार्ग होते हैं।\nD. एक सर्किट जहाँ उपकरण समान वोल्टेज साझा करते हैं।",
+        "answer": [
+            "A"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "57874d971ee6caeb50ebdeedb66cb9f6"
+    },
+    {
+        "question": "आप 0°C पर पानी और बर्फ और 100°C पर पानी और भाप दोनों कैसे रख सकते हैं?\n\nA. 0°C और 100°C पर पानी की घनत्व में परिवर्तन होता है, जो पानी और बर्फ या पानी और भाप के सह-अस्तित्व को संभव बनाता है।\nB. पानी की विशिष्ट ऊष्मा धारिता एक ही तापमान पर पानी और बर्फ या पानी और भाप के अस्तित्व की अनुमति देती है।\nC. तापमान अणुओं की औसत गतिज ऊर्जा से संबंधित है, और अणुबंधों को बदलने के लिए ऊर्जा के उपयोग पर होने वाले अवस्था परिवर्तनों से होता है जबकि गतिज ऊर्जा को नहीं बदलता।\nD. पानी और बर्फ, या पानी और भाप, में अलग अणु संरचनाएं होती हैं जो उन्हें एक ही तापमान पर अस्तित्व में रहने की अनुमति देती हैं।",
+        "answer": [
+            "C"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7afdd99de6a363d42d9aa1e2329ad82c"
+    }
+]
