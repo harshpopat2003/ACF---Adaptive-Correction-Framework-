@@ -1,8 +1,7 @@
 import os
-from acf import AdaptiveCorrectionFramework
+import Agent.main as AgentMain
 
 def menu_application():
-    acf = AdaptiveCorrectionFramework()
     language = "en"  # Default language
 
     while True:
@@ -38,27 +37,29 @@ def menu_application():
                 problem = input("Enter the problem statement: ")
 
                 print("\nProcessing problem...\n")
-                result = acf.run(problem, language)
+                print("Featrue not available in this version. Please try again later.")
+                result = ""
 
-                print(f"Initial Solution:\n{result['initial_solution']}\n")
-                print(f"Errors Identified:\n{result['errors']}\n")
+                # print(f"Initial Solution:\n{result['initial_solution']}\n")
+                # print(f"Errors Identified:\n{result['errors']}\n")
 
-                for error_type, correction in result["corrections"].items():
-                    print(f"Correction for {error_type}:\n{correction}\n")
+                # for error_type, correction in result["corrections"].items():
+                #     print(f"Correction for {error_type}:\n{correction}\n")
 
-                print(f"Final Solution:\n{result['final_solution']}\n")
+                # print(f"Final Solution:\n{result['final_solution']}\n")
 
             elif choice == 3:
                 print("Testing on Dataset...\n")
                 dataset_filename = input("Enter the dataset filename: ").strip()
-                max_steps = int(input("Enter the maximum number of iteration steps for refinement (default: 5): ") or "5")
+                max_steps = int(input("Enter the maximum number of iteration steps for refinement (default: 2): ") or "2")
                 graph_rag_dir = input("Enter the GRAPH_RAG directory path: ").strip()
                 dataset_dir = input("Enter the dataset directory path: ").strip()
                 result_dir = input("Enter the result directory path: ").strip()
 
                 print("\nRunning evaluation on the dataset...\n")
-                # Here you would call your dataset evaluation function, e.g.,
-                # evaluate(dataset_filename, max_steps, graph_rag_dir, dataset_dir, result_dir)
+
+                AgentMain.main(dataset_filename, max_steps, graph_rag_dir, dataset_dir, result_dir)
+
                 print(f"Evaluation completed. Results saved to {result_dir}/{dataset_filename}")
 
             elif choice == 4:

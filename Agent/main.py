@@ -149,25 +149,13 @@ def evaluate(dataset_filename, max_steps):
         json.dump(results, f, indent=2)
     
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    
-    parser.add_argument('dataset_filename', type=str, help="The name of the dataset file to evaluate.")
-    parser.add_argument('--max_steps', type=int, default=2, help="The maximum number of iteration steps for refinement.")
-    parser.add_argument('--graph_rag_dir', type=str, default='', help="Directory path for GRAPH_RAG data.")
-    parser.add_argument('--dataset_dir', type=str, default='', help="Directory path for datasets.")
-    parser.add_argument('--result_dir', type=str, default='', help="Directory path for saving results.")
+def main(dataset_filename, max_steps, graph_rag_dir, dataset_dir, result_dir):
+    global GRAPH_RAG_DIR, DATASET_DIR, RESULT_DIR
+    GRAPH_RAG_DIR = graph_rag_dir
+    DATASET_DIR = dataset_dir
+    RESULT_DIR = result_dir
 
-    args = parser.parse_args()
-
-    # Update the directories
-    GRAPH_RAG_DIR = args.graph_rag_dir
-    DATASET_DIR = args.dataset_dir
-    RESULT_DIR = args.result_dir
-
-    # Call the evaluate function with parsed arguments
-    evaluate(args.dataset_filename, args.max_steps)
-
+    evaluate(dataset_filename, max_steps)
 
 
 

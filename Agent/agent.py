@@ -36,26 +36,29 @@ class ACF:
         self.graph_llm = graph_llm
         self.model = model
         self.client_gpt = OpenAI()
-        self.assistant = self.client_gpt.beta.assistants.create(instructions=CALCULATION_PROMPT, model="gpt-4o", tools=[{"type": "code_interpreter"}])
+        self.assistant = self.client_gpt.beta.assistants.create(instructions=CALCULATION_PROMPT, model="gpt-3.5-turbo", tools=[{"type": "code_interpreter"}])
         self.thread = self.client_gpt.beta.threads.create()
         self.token_encoder = token_encoder
         self.text_embedder = text_embedder
         self.__reset_agent()
 
-    def run(self, INPUT_DIR, question, solution, reset):
+    def run(self, INPUT_DIR, question, solution, ground_truth, reset):
         if reset:
             self.__reset_agent()
 
         self.question = question
         self.solution = solution
+        self.ground_truth = ground_truth
         self.breakdown = self.llm.invoke(breakdown_prompt.format_messages(question=self.question)).content
+        print(f"\n -------------------------------- {self.breakdown} --------------------------------\n")
         self.INPUT_DIR = INPUT_DIR
         self.finished = False
         self.scratch_pad = ""
     
         # Iterative Refinement
-        while not self.finished and self.step_n < self.max_steps:
+        while not self.finished or self.step_n < self.max_steps:
             self.step()
+            self.step_n += 1
             if not self.finished:
                 self.step_n += 1
             self.scratch_pad += f"\n---------------------STEP {self.step_n}-----------------------\n"
@@ -65,6 +68,9 @@ class ACF:
            
 
         if self.step_n >= self.max_steps:
+            print("Refined solution after max steps reached")
+            self.scratch_pad += f"\nMax steps limit reached Solution : {self.ground_truth}\n"
+
             print("Max steps limit reached")
 
         return self.solution, self.scratch_pad
@@ -75,26 +81,33 @@ class ACF:
     def gpt_router(self, solution):
         ##-------------------Problem Comprehension Flags-------------------
         question_understanding_flags = self.llm.invoke(question_understanding_prompt.format_messages(question = self.question, solution = solution, breakdown = self.breakdown)).content
-        print("\nQuestion Understanding Flag: ", question_understanding_flags, "\n")
+        print(f"-------------------Question Understanding Flags-------------------\n")
+        print(f"{question_understanding_flags} \n")
+        print(f"-----------------------------------------------------------------\n")
         question_understanding_flags = eval(self.parse_gpt_response(question_understanding_flags))
         self.scratch_pad += f"\nQuestion Understanding Flag: {question_understanding_flags}\n"
 
         ##-------------------Concept Verification Score--------------------
         concept_score = self.llm.invoke(concept_prompt.format_messages(question = self.question, solution = solution, breakdown = self.breakdown)).content
-        print("\nConcept Score: ", concept_score, "\n")
+        print(f"------------------- Concept Application Score:-------------------\n")
+        print(f"{concept_score} \n")
+        print(f"-----------------------------------------------------------------\n")
         concept_score = eval(self.parse_gpt_response(concept_score))
         self.scratch_pad += f"\nConcept Score: {concept_score}\n"
    
 
         ##------------------Computation Verification Score------------------
         cal_score = self.cal_verification(question = self.question, solution = solution)
-        print("\nCalculation Score: ", cal_score, "\n")
+        print(f"-------------------Calculation Score-------------------\n")
+        print(f"{cal_score} \n")
+        print(f"-----------------------------------------------------------------\n")
         cal_score = eval(self.parse_gpt_response(cal_score))
         self.scratch_pad += f"\nCalculation Score: {cal_score}\n\n"
 
         return question_understanding_flags, concept_score, cal_score
     
     def refinement(self, solution):
+        print("\n----------------------Starting Refinement of solution-------------------------\n")
         # Error identification with GPT-4o
         question_understanding_flags, concept_score, cal_score = self.gpt_router(solution)
 
@@ -106,16 +119,24 @@ class ACF:
 
         # Prioritized Routing
         if question_understanding_flags[0] != 1:
+            print("\n --------------------------- Refining Question Understanding Flag as OBJECTIVE of Solution is not clear ---------------------------\n")
             refined_solution = self.llama_response(REFINE_OBJECTIVE_PROMPT.format(question = self.question, solution = solution))
+            print("\n --------------------------- Refined Questions Objective ---------------------------\n")
             return refined_solution
         elif question_understanding_flags[1] != 1:
+            print("\n --------------------------- Refining Question Understanding Flag as BREAKDOWN of Solution is not clear ---------------------------\n")
             refined_solution = self.llama_response(REFINE_BREAKDOWN_PROMPT.format(question = self.question, solution = solution))
+            print("\n --------------------------- Refined Questions Breakdown ---------------------------\n")
             return refined_solution
         elif concept_score < 0.90:
+            print("\n --------------------------- Refining Concept Application By GraphRAG to get the correct Concepts---------------------------\n")
             refined_solution = self.concept_agent(solution, concept_score)
+            print("\n --------------------------- Refined Concept Application ---------------------------\n")
             return refined_solution
         elif cal_score < 0.90:
+            print("\n --------------------------- Refining Calculation Verification By Code Interpreter to get the correct Calculation---------------------------\n")
             refined_solution = self.cal_agent(solution, cal_score)
+            print("\n --------------------------- Refined Calculation Verification ---------------------------\n")
             return refined_solution
         
         self.finished = True
