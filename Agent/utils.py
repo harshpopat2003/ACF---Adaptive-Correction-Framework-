@@ -1,6 +1,7 @@
 import pandas as pd
 import tiktoken
 import os
+from dotenv import load_dotenv
 
 from graphrag.query.context_builder.entity_extraction import EntityVectorStoreKey
 from graphrag.query.indexer_adapters import (
@@ -31,7 +32,12 @@ COVARIATE_TABLE = "create_final_covariates"
 TEXT_UNIT_TABLE = "create_final_text_units"
 COMMUNITY_LEVEL = 2
 
-os.environ['GRAPHRAG_API_KEY'] = os.environ.get('OPENAI_API_KEY')
+
+# Load .env file
+load_dotenv()
+
+graph_rag_key = os.getenv('OPENAI_API_KEY')
+os.environ['GRAPHRAG_API_KEY'] = graph_rag_key
 llm_model = "gpt-3.5-turbo"
 embedding_model = "text-embedding-3-small"
 

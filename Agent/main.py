@@ -4,9 +4,9 @@ import argparse
 import time
 import os
 from tqdm import tqdm
-from prompts import*
-from utils import*
-from agent import*
+from Agent.prompts import*
+from Agent.utils import*
+from Agent.agent import*
 from openai import OpenAI 
 from dotenv import load_dotenv
 from together import Together
@@ -14,6 +14,9 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from graphrag.query.context_builder.entity_extraction import EntityVectorStoreKey
 
+
+# Load .env file
+load_dotenv()
 
 os.environ['TOGETHER_API_KEY'] = os.getenv('TOGETHER_API_KEY')
 client = Together(api_key=os.environ.get("TOGETHER_API_KEY"))
@@ -121,14 +124,18 @@ def evaluate(dataset_filename, max_steps):
     for idx, item in enumerate(tqdm(data)):
 
         result = item
-
+        print("\n----------------------------------------------------")
         print("Id: ", idx, "\n")
+        print("Topic: ", item['topic'], "\n")
+        print("----------------------------------------------------------------------\n")
         print("Question: ", item['question'], "\n")
+        print("----------------------------------------------------------------------\n")
         print("LLM Response: ", item['response'], "\n")
+        print("----------------------------------------------------------------------\n")
 
         INPUT_DIR = f"{GRAPH_RAG_DIR}/{item['INPUT_DIR']}/output/ENTITES/artifacts"
         # LLM Response Refinement
-        refined_solution, scratchpad = agent.run(INPUT_DIR, item['question'], item['response'], True)
+        refined_solution, scratchpad = agent.run(INPUT_DIR, item['question'], item['response'], item["solution"], True)
         result['refined_solution'] = refined_solution
         result['scratchpad'] = scratchpad
         

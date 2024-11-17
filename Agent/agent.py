@@ -3,8 +3,8 @@ import time
 from openai import OpenAI 
 from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
-from prompts import*
-from utils import*
+from Agent.prompts import*
+from Agent.utils import*
 
 
 breakdown_prompt = ChatPromptTemplate.from_messages([
@@ -107,7 +107,7 @@ class ACF:
         return question_understanding_flags, concept_score, cal_score
     
     def refinement(self, solution):
-        print("\n----------------------Starting Refinement of solution-------------------------\n")
+        print("\n----------------------Starting Flags Cheking of solution and Refinement -------------------------\n")
         # Error identification with GPT-4o
         question_understanding_flags, concept_score, cal_score = self.gpt_router(solution)
 
