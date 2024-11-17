@@ -1,4 +1,4 @@
-# MoRA
+# ACF - Adaptive Correction Framework 
 ## Requirements
 
 The code is written in Python 3.8. Before running, you need to first install the required packages by typing following commands (Using a virtual environment is recommended):
