@@ -1,0 +1,30 @@
+[
+    {
+        "question": "Q2: In a process, temperature and volume of one mole of an ideal monoatomic gas are varied according to the relation $V T=K$, where $K$ is a constant. In this process, the temperature of the gas is increased by $T$. The amount of heat absorbed by gas is given by ( $\\mathrm{R}$ is gas constant)",
+        "input": "(a) $(2 \\mathrm{K} / 3) \\Delta \\mathrm{T}$ (b) $1 / 2 R \\Delta T$ (c) $(3 / 2) \\mathrm{R} \\Delta \\mathrm{T}$ (d) $(1 / 2) \\mathrm{KR} \\Delta \\mathrm{T}$",
+        "answer": "(b) $1 / 2 R \\Delta T$",
+        "solution": "$\\mathrm{VT}=\\mathrm{K}$, $\\mathrm{V}(\\mathrm{PV} / \\mathrm{R})=\\mathrm{K}$ $\\mathrm{PV}^{2}=$ constant For a polytropic process $\\mathrm{C}=(\\mathrm{R} / 1-\\mathrm{x})+\\mathrm{C}_{\\mathrm{v}}=(\\mathrm{R} / 1-2)+3 \\mathrm{R} / 2=\\mathrm{R} / 2$ $\\Delta \\mathrm{Q}=\\mathrm{n} \\mathrm{C} T=(1 / 2) \\mathrm{R} \\Delta \\mathrm{T}$",
+        "topic": "Heat Transfer"
+    },
+    {
+        "question": "Q4: $200 \\mathrm{~g}$ water is heated from $40^{\\circ} \\mathrm{C}$ to $60^{\\circ} \\mathrm{C}$. Ignoring the slight expansion of water, the change in its internal energy is close to (Given specific heat of water $=4184 \\mathrm{~J} / \\mathrm{kg} / \\mathrm{K}$ )",
+        "input": "(a) $167.4 \\mathrm{~kJ}$ (b) $8.4 \\mathrm{~kJ}$ (c) $4.2 \\mathrm{~kJ}$ (d) $16.7 \\mathrm{~kJ}$",
+        "answer": "(d) 16.7 kJ",
+        "solution": "For isochoric process, $\\Delta \\mathrm{U}=\\mathrm{Q}=\\mathrm{ms} \\Delta \\mathrm{T}$ Here, $\\mathrm{m}=200 \\mathrm{~g}=0.2 \\mathrm{~kg}, \\mathrm{~s}=4184 \\mathrm{~J} / \\mathrm{kg} / \\mathrm{K}$ $\\Delta \\mathrm{T}=60^{\\circ} \\mathrm{C}-40^{\\circ} \\mathrm{C}=20^{\\circ} \\mathrm{C}$ $\\Delta \\mathrm{U}=0.2 \times 4184 \times 20=16736 \\mathrm{~J}=16.7 \\mathrm{~kJ}$",
+        "topic": "Heat Transfer"
+    },
+    {
+        "question": "Q5: A diatomic gas with rigid molecules does $10 \\mathrm{~J}$ of work when expanded at constant pressure. What would be the heat energy absorbed by the gas, in this process?",
+        "input": "(a) $25 \\mathrm{~J}$ (b) $30 \\mathrm{~J}$ (c) $35 \\mathrm{~J}$ (d) $40 \\mathrm{~J}$",
+        "answer": "(c) 35 J",
+        "solution": "Given that the process is isobaric. Therefore, heat energy absorbed by the gas is $\\Delta \\mathrm{Q}=\\mathrm{nC}_{\\mathrm{P}} \\mathrm{T} \\ldots(1)$ Also, work done by the gas is $\\mathrm{W}=\\mathrm{nRT}=10 \\mathrm{~J}$ (given). Since, $C_{P}=(7 / 2) R$ for a diatomic gas $\\Delta \\mathrm{Q}=\\mathrm{n}(7 / 2) \\mathrm{R} \\Delta \\mathrm{T}$ (Using 1) $\\Delta Q=(7 / 2) n R \\Delta T=(7 / 2) \\times 10$ (Using 2) $\\Delta \\mathrm{Q}=35 \\mathrm{~J}$",
+        "topic": "Heat Transfer"
+    },
+    {
+        "question": "Q8: A heat source at $T=103 \\mathrm{~K}$ is connected to another heat reservoir at $T=102 \\mathrm{~K}$ by a copper slab that is $1 \\mathrm{~mm}$ thick. Given that the thermal conductivity of copper is $0.1 \\mathrm{WK}-1 \\mathrm{~m}-1$, the energy flux through it in the steady state is",
+        "input": "(1) $90 \\mathrm{Wm}^{-2}$ (2) $120 \\mathrm{Wm}^{-2}$ (3) $65 \\mathrm{Wm}^{-2}$ (4) $200 \\mathrm{Wm}^{-2}$",
+        "answer": "(1) $90 \\mathbf{Wm}^{-2}$",
+        "solution": "\\\\section*\\{Temp. of \\\\ heat source $(\\mathrm{dQ} / \\mathrm{dt})=(\\mathrm{kA} \\Delta \\mathrm{T}) / \\mathrm{l}$ Energy flux, $\\frac{1}{A}\\left(\\frac{d Q}{d t}\\right)=\\frac{k \\Delta T}{l}$ $=(0.1)(900) / 1=90 \\mathrm{~W} / \\mathrm{m}^{2}$",
+        "topic": "Heat Transfer"
+    }
+]

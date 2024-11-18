@@ -1,0 +1,482 @@
+[
+    {
+        "question": "White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is",
+        "input": "A. 500 nm, B. 550 nm, C. 600 nm, D. 650 nm",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a puddle of water with an index of refraction of 1.33, and a thin layer of oil with an index of refraction of 1.5 floating on its surface. White light is incident normally on this system. We need to find the wavelength that is most strongly reflected.\n\n**Step 2: Identify the relevant phenomenon**\n\nThe relevant phenomenon here is thin-film interference. When light reflects off the oil-water interface, it undergoes interference due to the path difference between the light reflected from the top and bottom surfaces of the oil layer.\n\n**Step 3: Determine the condition for constructive interference**\n\nFor constructive interference to occur, the path difference between the two reflected light waves must be an integer multiple of the wavelength. Since the oil layer is very thin (500 nm), we can assume that the path difference is approximately equal to 2 times the thickness of the oil layer (due to the round trip of the light wave).\n\nLet's call the wavelength of the light \u03bb. Then, the condition for constructive interference is:\n\n2 \u00d7 500 nm = m \u00d7 \u03bb\n\nwhere m is an integer.\n\n**Step 4: Find the wavelength that satisfies the condition**\n\nRearranging the equation, we get:\n\n\u03bb = 1000 nm / m\n\nSince m is an integer, the possible wavelengths that satisfy the condition are:\n\n\u03bb = 1000 nm, 500 nm, 333.33 nm, 250 nm, ...\n\n**Step 5: Identify the correct answer choice**\n\nAmong the given options, the wavelength that is closest to one of the possible wavelengths is:\n\nA. 500 nm\n\nTherefore, the correct answer is:\n\n**A. 500 nm**",
+        "extracted_answer": "A. 500 nm",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?",
+        "input": "A. The Heisenberg uncertainty principle, B. The Pauli exclusion principle, C. The Bohr model of the atom, D. Nuclear hyperfine coupling",
+        "answer": "B",
+        "response": "Let's break down the question step by step!\n\nThe question is asking why an ortho-state (parallel electron spins) has a lower energy than the corresponding para-state (antiparallel electron spins) in excited states of the helium atom.\n\nTo answer this, we need to consider the interactions between the electrons and the nucleus in the helium atom.\n\nIn an ortho-state, the electron spins are parallel, which means they have the same orientation. This leads to a symmetric spatial wave function, as the electrons are indistinguishable. According to the Pauli exclusion principle, when the spatial wave function is symmetric, the spin wave function must be antisymmetric, and vice versa.\n\nIn a para-state, the electron spins are antiparallel, which means they have opposite orientations. This leads to an antisymmetric spatial wave function, as the electrons are indistinguishable. Again, according to the Pauli exclusion principle, when the spatial wave function is antisymmetric, the spin wave function must be symmetric.\n\nNow, let's consider the nuclear hyperfine coupling, which is the interaction between the nuclear spin and the electron spin. In the helium atom, the nuclear spin is non-zero, and this interaction is significant.\n\nWhen the electron spins are parallel (ortho-state), the nuclear hyperfine coupling is stronger, as the nuclear spin can interact with both electron spins more effectively. This stronger interaction leads to a lower energy state.\n\nOn the other hand, when the electron spins are antiparallel (para-state), the nuclear hyperfine coupling is weaker, as the nuclear spin interacts with one electron spin more strongly than the other. This weaker interaction leads to a higher energy state.\n\nTherefore, the correct answer is:\n\nD. Nuclear hyperfine coupling\n\nThe other options are not directly related to the energy difference between ortho- and para-states in the helium atom:\n\nA. The Heisenberg uncertainty principle is a fundamental principle in quantum mechanics, but it doesn't explain the energy difference between ortho- and para-states.\n\nB. The Pauli exclusion principle is relevant to the symmetry of the wave function, but it doesn't directly explain the energy difference between ortho- and para-states.\n\nC. The Bohr model of the atom is an outdated model that doesn't account for electron spin or nuclear hyperfine coupling, so it's not relevant to this question.",
+        "extracted_answer": "D. Nuclear hyperfine coupling",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide?",
+        "input": "A. 0.024 m, B. 0.048 m, C. 0.121 m, D. 0.242 m",
+        "answer": "D",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a small coin on a turntable that rotates at 33.3 revolutions per minute. The coefficient of static friction between the coin and the turntable is 0.30. We need to find the maximum distance from the center of the turntable at which the coin will not slide.\n\n**Step 2: Convert the rotation rate to angular velocity**\n\nFirst, let's convert the rotation rate from revolutions per minute to radians per second. There are 2\u03c0 radians in one revolution, so:\n\n\u03c9 (angular velocity) = (33.3 rev/min) \u00d7 (2\u03c0 rad/rev) \u00d7 (1 min/60 s) = 3.49 rad/s\n\n**Step 3: Calculate the centripetal force**\n\nThe centripetal force (F_c) required to keep the coin moving in a circle is given by:\n\nF_c = (m \u00d7 v^2) / r\n\nwhere m is the mass of the coin, v is the velocity of the coin, and r is the radius of the circle. Since we're looking for the maximum distance from the center, we'll use the radius (r) instead of the distance from the center.\n\nWe can also use the fact that v = \u03c9 \u00d7 r, so:\n\nF_c = (m \u00d7 (\u03c9 \u00d7 r)^2) / r = m \u00d7 \u03c9^2 \u00d7 r\n\n**Step 4: Calculate the maximum static friction force**\n\nThe maximum static friction force (F_s) is given by:\n\nF_s = \u03bc_s \u00d7 N\n\nwhere \u03bc_s is the coefficient of static friction (0.30) and N is the normal force (which is equal to the weight of the coin, mg, since the coin is not accelerating vertically).\n\nF_s = 0.30 \u00d7 mg\n\n**Step 5: Equate the centripetal force and the maximum static friction force**\n\nSince the coin is on the verge of sliding, the centripetal force (F_c) is equal to the maximum static friction force (F_s):\n\nm \u00d7 \u03c9^2 \u00d7 r = 0.30 \u00d7 mg\n\n**Step 6: Solve for r**\n\nNow, we can solve for r:\n\nr = (0.30 \u00d7 g) / \u03c9^2\n\nPlugging in the values, we get:\n\nr = (0.30 \u00d7 9.8 m/s^2) / (3.49 rad/s)^2 = 0.121 m\n\n**Answer**\n\nThe correct answer is:\n\nC. 0.121 m",
+        "extracted_answer": "C. 0.121 m",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?",
+        "input": "A. The Heisenberg uncertainty principle, B. The Pauli exclusion principle, C. The Bohr model of the atom, D. Nuclear hyperfine coupling",
+        "answer": "B",
+        "response": "Let's break down the question step by step!\n\nThe question is asking why an ortho-state (parallel electron spins) has a lower energy than the corresponding para-state (antiparallel electron spins) in excited states of the helium atom.\n\nTo answer this, we need to consider the interactions between the electrons and the nucleus in the helium atom.\n\nIn an ortho-state, the electron spins are parallel, which means they have the same orientation. This leads to a symmetric spatial wave function, as the electrons are indistinguishable. According to the Pauli exclusion principle, when the spatial wave function is symmetric, the spin wave function must be antisymmetric, and vice versa.\n\nIn a para-state, the electron spins are antiparallel, which means they have opposite orientations. This leads to an antisymmetric spatial wave function, as the electrons are indistinguishable. Again, according to the Pauli exclusion principle, when the spatial wave function is antisymmetric, the spin wave function must be symmetric.\n\nNow, let's consider the nuclear hyperfine coupling, which is the interaction between the nuclear spin and the electron spin. In the helium atom, the nuclear spin is non-zero, and this interaction is significant.\n\nWhen the electron spins are parallel (ortho-state), the nuclear hyperfine coupling is stronger, as the nuclear spin can interact with both electron spins more effectively. This stronger interaction leads to a lower energy state.\n\nOn the other hand, when the electron spins are antiparallel (para-state), the nuclear hyperfine coupling is weaker, as the nuclear spin interacts with one electron spin more strongly than the other. This weaker interaction leads to a higher energy state.\n\nTherefore, the correct answer is:\n\nD. Nuclear hyperfine coupling\n\nThe other options are not directly related to the energy difference between ortho- and para-states in the helium atom:\n\nA. The Heisenberg uncertainty principle is a fundamental principle in quantum mechanics, but it doesn't explain the energy difference between ortho- and para-states.\n\nB. The Pauli exclusion principle is relevant to the symmetry of the wave function, but it doesn't directly explain the energy difference between ortho- and para-states.\n\nC. The Bohr model of the atom is an outdated model that doesn't account for electron spin or nuclear hyperfine coupling, so it's not relevant to this question.",
+        "extracted_answer": "D. Nuclear hyperfine coupling",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the spring and rests on a table. The mass is displaced 0.030 m from its equilibrium position and released. It has a speed of 0.040 m/s as it passes through its equilibrium position. In the absence of friction, what is the total mechanical energy of the system?",
+        "input": "A. 0.24 mJ, B. 0.38 mJ, C. 0.48 mJ, D. 0.75 mJ",
+        "answer": "A",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Identify the given quantities**\n\n* Mass of the object (m) = 0.30 kg\n* Displacement from equilibrium position (x) = 0.030 m\n* Speed of the object as it passes through equilibrium position (v) = 0.040 m/s\n\n**Step 2: Calculate the spring constant (k)**\n\nWe can use the equation for simple harmonic motion:\n\nF = -kx\n\nwhere F is the force exerted by the spring. Since the mass is displaced from its equilibrium position, the force is not zero. We can use Hooke's law to relate the force to the displacement:\n\nF = kx\n\nWe know that the force is maximum when the displacement is maximum, so we can equate the maximum force to the product of the spring constant and the maximum displacement:\n\nkx = m(v^2/x)\n\nwhere v is the speed of the object as it passes through equilibrium position. Plugging in the given values, we get:\n\nk(0.030 m) = 0.30 kg (0.040 m/s)^2 / 0.030 m\n\nSimplifying, we get:\n\nk = 16 N/m\n\n**Step 3: Calculate the potential energy (U)**\n\nThe potential energy of the spring is given by:\n\nU = (1/2)kx^2\n\nPlugging in the values, we get:\n\nU = (1/2)(16 N/m)(0.030 m)^2\n= 0.24 J\n\n**Step 4: Calculate the kinetic energy (K)**\n\nThe kinetic energy of the object is given by:\n\nK = (1/2)mv^2\n\nPlugging in the values, we get:\n\nK = (1/2)(0.30 kg)(0.040 m/s)^2\n= 0.24 J\n\n**Step 5: Calculate the total mechanical energy (E)**\n\nThe total mechanical energy is the sum of the potential energy and kinetic energy:\n\nE = U + K\n= 0.24 J + 0.24 J\n= 0.48 J\n\n**Step 6: Convert the answer to millijoules (mJ)**\n\n1 J = 1000 mJ, so:\n\nE = 0.48 J \u00d7 1000 mJ/J\n= 480 mJ\n\nHowever, the options are given in millijoules, and the closest option is:\n\nC. 0.48 mJ\n\nTherefore, the correct answer is:\n\nC. 0.48 mJ",
+        "extracted_answer": "C. 0.48 mJ",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have?",
+        "input": "A. 2, B. 4, C. 6, D. 10",
+        "answer": "D",
+        "response": "Let's break it down step by step!\n\nWe know that the atom has filled n = 1 and n = 2 levels. This means that all the available energy states in these two levels are occupied by electrons.\n\nFor the n = 1 level (also known as the 1s orbital), there are 2 available energy states. Since it's filled, it means there are 2 electrons in this level.\n\nFor the n = 2 level, there are 4 available energy states: 2s and 3 2p orbitals. Since it's filled, it means there are 4 electrons in this level.\n\nTo find the total number of electrons, we add the electrons in both levels:\n\n2 electrons (n = 1) + 4 electrons (n = 2) = 6 electrons\n\nTherefore, the correct answer is:\n\nC. 6",
+        "extracted_answer": "C. 6",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": -1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is",
+        "input": "A. 0.04 V, B. 0.1 V, C. 2.5 V, D. 10 V",
+        "answer": "D",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a circular coil with:\n\n* Area (A) = 0.2 m^2\n* Number of turns (N) = 250\n* Magnetic field (B) is increased from 0.01 T to 0.06 T\n* Time interval (\u0394t) = 0.25 s\n\nWe need to find the average induced EMF (\u03b5) in the coil.\n\n**Step 2: Apply Faraday's law of induction**\n\nThe induced EMF (\u03b5) is given by Faraday's law of induction:\n\n\u03b5 = -N(d\u03a6/dt)\n\nwhere \u03a6 is the magnetic flux.\n\n**Step 3: Calculate the change in magnetic flux**\n\nThe magnetic flux (\u03a6) is given by:\n\n\u03a6 = B \u00d7 A\n\nThe change in magnetic flux (\u0394\u03a6) is:\n\n\u0394\u03a6 = \u0394B \u00d7 A\n= (0.06 T - 0.01 T) \u00d7 0.2 m^2\n= 0.02 T \u00d7 0.2 m^2\n= 0.004 Wb\n\n**Step 4: Calculate the rate of change of magnetic flux**\n\nThe rate of change of magnetic flux (d\u03a6/dt) is:\n\nd\u03a6/dt = \u0394\u03a6 / \u0394t\n= 0.004 Wb / 0.25 s\n= 0.016 Wb/s\n\n**Step 5: Calculate the average induced EMF**\n\nNow, we can calculate the average induced EMF (\u03b5):\n\n\u03b5 = -N(d\u03a6/dt)\n= -250 \u00d7 (-0.016 Wb/s)\n= 4 V\n\n**Step 6: Find the correct answer**\n\nThe correct answer is not exactly among the options, but the closest one is:\n\nC. 2.5 V\n\nSo, the correct input choice is **C**.",
+        "extracted_answer": "C",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The average total energy of the oscillator is",
+        "input": "A. (1/2) k T, B. kT, C. (3/2) k T, D. 3kT",
+        "answer": "D",
+        "response": "Let's break down the problem step by step.\n\nA three-dimensional harmonic oscillator has three degrees of freedom, corresponding to the three dimensions of space. Each degree of freedom contributes (1/2)kT to the average energy, according to the equipartition theorem.\n\nSo, the total average energy of the oscillator is:\n\nE_avg = (1/2)kT + (1/2)kT + (1/2)kT = (3/2)kT\n\nTherefore, the correct answer is:\n\nC. (3/2) k T",
+        "extracted_answer": "C. (3/2) k T",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source for the interferometer is a laser with wavelength 632.2 nm, then 100 fringes are counted as the gas cell is evacuated. What is the index of refraction of the original gas?",
+        "input": "A. 1.00063, B. 1.00032, C. 1.00016, D. 0.99968",
+        "answer": "B",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a Michelson interferometer with a gas cell in one arm, and a laser light source with a wavelength of 632.2 nm. As the gas cell is evacuated, 100 fringes are counted.\n\n**Step 2: Identify the relevant physics**\n\nThe key concept here is the change in optical path length due to the evacuation of the gas cell. The optical path length is given by the product of the physical path length and the refractive index of the medium.\n\n**Step 3: Analyze the situation**\n\nInitially, the gas cell has a certain refractive index, which we'll call n. The optical path length of the gas cell is given by:\n\nOptical path length = Physical path length \u00d7 Refractive index\n= 10 cm \u00d7 n\n\nAs the gas cell is evacuated, the refractive index of the gas cell approaches that of vacuum, which is approximately 1. The optical path length of the evacuated gas cell is:\n\nOptical path length = Physical path length \u00d7 Refractive index\n= 10 cm \u00d7 1\n\n**Step 4: Relate the change in optical path length to the number of fringes**\n\nWhen the gas cell is evacuated, the optical path length changes by \u0394L. This change in optical path length causes a phase shift in the light, resulting in the formation of fringes. The number of fringes (N) is related to the change in optical path length by:\n\n\u0394L = N \u00d7 \u03bb\n\nwhere \u03bb is the wavelength of the light.\n\n**Step 5: Plug in the values and solve**\n\nWe are given that 100 fringes are counted as the gas cell is evacuated. We can set up the equation:\n\n\u0394L = 100 \u00d7 632.2 nm\n\nWe know that the physical path length of the gas cell is 10 cm, so we can convert the wavelength from nanometers to centimeters:\n\n\u0394L = 100 \u00d7 632.2 nm \u00d7 (1 cm / 10^7 nm)\n= 0.06322 cm\n\nNow, we can relate the change in optical path length to the refractive index of the original gas:\n\n\u0394L = (n - 1) \u00d7 10 cm\n\nEquating the two expressions for \u0394L, we get:\n\n0.06322 cm = (n - 1) \u00d7 10 cm\n\nSolving for n, we get:\n\nn = 1 + 0.06322 / 10\n= 1.00063\n\n**Step 6: Choose the correct answer**\n\nThe correct answer is:\n\nA. 1.00063",
+        "extracted_answer": "1.00063",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)",
+        "input": "A. 0.1 eV, B. 1 eV, C. 10 eV, D. 100 eV",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the concept**\nThe problem is related to electron diffraction, which is similar to X-ray diffraction. The electrons will diffract from the crystal lattice and produce a scattering pattern.\n\n**Step 2: Identify the relevant equation**\nThe de Broglie wavelength (\u03bb) of the electrons is related to their kinetic energy (K) by:\n\n\u03bb = h / \u221a(2mK)\n\nwhere h is Planck's constant, and m is the mass of an electron.\n\n**Step 3: Set up the condition for diffraction**\nFor diffraction to occur, the de Broglie wavelength of the electrons should be comparable to the lattice spacing (d) of the crystal. Let's set up the condition:\n\n\u03bb \u2248 d\n\n**Step 4: Plug in the values**\nGiven d = 0.4 nm = 0.4 \u00d7 10^(-9) m. We need to find the kinetic energy (K) of the electrons.\n\nRearrange the de Broglie wavelength equation to solve for K:\n\nK = (h^2) / (2m\u03bb^2)\n\n**Step 5: Calculate the kinetic energy**\nPlug in the values:\n\nh = 6.626 \u00d7 10^(-34) J s\nm = 9.11 \u00d7 10^(-31) kg\n\nK = (6.626 \u00d7 10^(-34) J s)^2 / (2 \u00d7 9.11 \u00d7 10^(-31) kg \u00d7 (0.4 \u00d7 10^(-9) m)^2)\nK \u2248 64.4 eV\n\n**Step 6: Choose the correct answer**\nThe calculated kinetic energy is closest to:\n\nD. 100 eV\n\nSo, the correct answer is:\n\nD. 100 eV",
+        "extracted_answer": "D. 100 eV",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": 1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "A heat pump is to extract heat from an outdoor environment at 7\u00b0C and heat the environment indoors to 27\u00b0C. For each 15,000 J of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately",
+        "input": "A. 500 J, B. 1,000 J, C. 1,100 J, D. 2,000 J",
+        "answer": "B",
+        "response": "Let's solve the problem step by step.\n\nWe can use the concept of Carnot efficiency to solve this problem. The Carnot efficiency (\u03b7) is given by:\n\n\u03b7 = 1 - (Tc / Th)\n\nwhere Tc is the temperature of the cold reservoir (outdoor environment) and Th is the temperature of the hot reservoir (indoor environment).\n\nFirst, let's convert the temperatures from Celsius to Kelvin:\n\nTc = 7\u00b0C + 273.15 = 280.15 K\nTh = 27\u00b0C + 273.15 = 300.15 K\n\nNow, we can calculate the Carnot efficiency:\n\n\u03b7 = 1 - (280.15 / 300.15) = 0.067\n\nThe Carnot efficiency is the maximum possible efficiency of a heat engine or refrigerator. Since we want to find the smallest amount of work that must be supplied to the heat pump, we can use the Carnot efficiency to find the minimum work required.\n\nThe work required (W) is given by:\n\nW = Qh / \u03b7\n\nwhere Qh is the heat delivered indoors. We are given that Qh = 15,000 J.\n\nRearranging the equation to solve for W, we get:\n\nW = Qh / \u03b7\n= 15,000 J / 0.067\n\u2248 2,239 J\n\nHowever, this is not among the options provided. But we can see that the correct answer is closest to option D. 2,239 J is approximately equal to 2,000 J.\n\nTherefore, the correct answer is:\n\nD. 2,000 J",
+        "extracted_answer": "D. 2,000 J",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it travel in the lab before decaying?",
+        "input": "A. 150 m, B. 288 m, C. 360 m, D. 450 m",
+        "answer": "D",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a particle that decays in 2.0 ms in its rest frame. This means that the particle's proper time (time measured in its own rest frame) is 2.0 ms. We need to find out how far it will travel in the lab frame before decaying, given that it moves at 0.60c in the lab frame.\n\n**Step 2: Apply time dilation**\n\nSince the particle is moving at 0.60c in the lab frame, time dilation occurs. The time measured in the lab frame (t_lab) is related to the proper time (t_proper) by the Lorentz factor (\u03b3):\n\nt_lab = \u03b3 \\* t_proper\n\nwhere \u03b3 = 1 / sqrt(1 - v^2/c^2)\n\nPlugging in the values, we get:\n\n\u03b3 = 1 / sqrt(1 - (0.60c)^2/c^2) = 1.25\n\nt_lab = 1.25 \\* 2.0 ms = 2.5 ms\n\n**Step 3: Calculate the distance traveled**\n\nNow, we need to find the distance traveled by the particle in the lab frame before decaying. We can use the formula:\n\ndistance = velocity \\* time\n\nIn this case, the velocity is 0.60c, and the time is the time measured in the lab frame (t_lab):\n\ndistance = 0.60c \\* 2.5 ms\n\nConverting the time from milliseconds to seconds, we get:\n\ndistance = 0.60 \\* 3.0 x 10^8 m/s \\* 2.5 x 10^-3 s\n\ndistance \u2248 360 m\n\n**Answer**\n\nThe correct answer is:\n\nC. 360 m",
+        "extracted_answer": "C. 360 m",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately",
+        "input": "A. 0.1 GeV/c^2, B. 0.2 GeV/c^2, C. 0.5 GeV/c^2, D. 1.0 GeV/c^2",
+        "answer": "D",
+        "response": "Let's solve the problem step by step.\n\nWe are given:\n\n* Total energy (E) = 5.0 GeV\n* Momentum (p) = 4.9 GeV/c\n\nWe need to find the rest mass (m) of the particle.\n\nThe total energy of a particle is related to its rest mass and momentum by the equation:\n\nE\u00b2 = (pc)^2 + (mc^2)^2\n\nwhere c is the speed of light.\n\nRearranging the equation to solve for m, we get:\n\nm\u00b2 = (E\u00b2 - (pc)^2) / c^4\n\nPlugging in the given values, we get:\n\nm\u00b2 = (5.0 GeV)^2 - (4.9 GeV/c)^2 / c^4\n= 25 GeV\u00b2 - 24.01 GeV\u00b2 / c^4\n= 0.99 GeV\u00b2 / c^4\n\nTaking the square root of both sides, we get:\n\nm = \u221a(0.99 GeV\u00b2 / c^4) = 0.995 GeV/c\u00b2 \u2248 0.1 GeV/c\u00b2\n\nTherefore, the correct answer is:\n\nA. 0.1 GeV/c^2",
+        "extracted_answer": "A. 0.1 GeV/c^2",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell\u2019s equations imply that which of the following must be true just outside the surface of the superconductor?",
+        "input": "A. B = 0, B. B is perpendicular to the surface., C. B is tangential to the surface., D. B is time independent.",
+        "answer": "C",
+        "response": "Let's break down the problem step by step!\n\nSince the electric and magnetic fields inside the superconductor are zero, we can use Maxwell's equations to determine the properties of the fields just outside the surface of the superconductor.\n\n1. Gauss's law for magnetism: \u2207\u22c5B = 0 (magnetic charges do not exist)\nThis equation implies that the magnetic field lines are continuous and do not terminate at the surface of the superconductor.\n\n2. The boundary condition for the magnetic field at the surface of a perfect conductor (or superconductor) is:\n\nn \u00d7 B = 0\n\nwhere n is the unit normal vector to the surface.\n\nThis boundary condition implies that the magnetic field just outside the surface of the superconductor must be perpendicular to the surface.\n\nNow, let's analyze the given options:\n\nA. B = 0: This is not true, as the magnetic field is not zero just outside the surface of the superconductor.\n\nB. B is perpendicular to the surface: This is true, as we derived from the boundary condition.\n\nC. B is tangential to the surface: This is the opposite of what we derived, so it's false.\n\nD. B is time-independent: This is not necessarily true, as the magnetic field outside the superconductor can vary with time.\n\nTherefore, the correct answer is:\n\nB. B is perpendicular to the surface.",
+        "extracted_answer": "B. B is perpendicular to the surface.",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is",
+        "input": "A. 0.04 V, B. 0.1 V, C. 2.5 V, D. 10 V",
+        "answer": "D",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a circular coil with:\n\n* Area (A) = 0.2 m^2\n* Number of turns (N) = 250\n* Magnetic field (B) increasing from 0.01 T to 0.06 T\n* Time interval (\u0394t) = 0.25 s\n\nWe need to find the average induced EMF (\u03b5) in the coil.\n\n**Step 2: Apply Faraday's law of induction**\n\nThe induced EMF (\u03b5) is given by Faraday's law of induction:\n\n\u03b5 = -N(d\u03a6/dt)\n\nwhere \u03a6 is the magnetic flux.\n\n**Step 3: Calculate the change in magnetic flux**\n\nThe magnetic flux (\u03a6) is given by:\n\n\u03a6 = B \u00d7 A\n\nThe change in magnetic flux (\u0394\u03a6) is:\n\n\u0394\u03a6 = \u0394B \u00d7 A\n= (0.06 T - 0.01 T) \u00d7 0.2 m^2\n= 0.02 T \u00d7 0.2 m^2\n= 0.004 Wb\n\n**Step 4: Calculate the rate of change of magnetic flux**\n\nThe rate of change of magnetic flux (d\u03a6/dt) is:\n\nd\u03a6/dt = \u0394\u03a6 / \u0394t\n= 0.004 Wb / 0.25 s\n= 0.016 Wb/s\n\n**Step 5: Calculate the average induced EMF**\n\nNow, we can calculate the average induced EMF (\u03b5):\n\n\u03b5 = -N(d\u03a6/dt)\n= -250 \u00d7 0.016 Wb/s\n= 2.5 V\n\n**Answer**\n\nThe correct answer is:\n\nC. 2.5 V",
+        "extracted_answer": "C. 2.5 V",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Which of the harmonics, if any, will survive once the pipe is closed at one end?",
+        "input": "A. 50 Hz, 150 Hz, and 250 Hz only, B. 100 Hz and 200 Hz only, C. 150 Hz and 250 Hz only, D. None",
+        "answer": "D",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have an organ pipe open at both ends, producing five harmonics: 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Then, the pipe is closed at one end. We need to determine which harmonics will survive this change.\n\n**Step 2: Recall the properties of harmonics in open and closed pipes**\n\nIn an open pipe, all harmonics are present, and the frequency of each harmonic is given by:\n\nf_n = n \u00d7 (v / 2L)\n\nwhere n is the harmonic number, v is the speed of sound, and L is the length of the pipe.\n\nIn a closed pipe, only odd harmonics are present, and the frequency of each harmonic is given by:\n\nf_n = (2n - 1) \u00d7 (v / 4L)\n\n**Step 3: Analyze the given harmonics**\n\nThe given harmonics are: 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. We can see that these frequencies are evenly spaced, which suggests that they are consecutive harmonics.\n\nLet's assume the fundamental frequency (first harmonic) is 50 Hz. Then, the subsequent harmonics would be:\n\n2nd harmonic: 2 \u00d7 50 Hz = 100 Hz\n3rd harmonic: 3 \u00d7 50 Hz = 150 Hz\n4th harmonic: 4 \u00d7 50 Hz = 200 Hz\n5th harmonic: 5 \u00d7 50 Hz = 250 Hz\n\n**Step 4: Determine which harmonics will survive when the pipe is closed at one end**\n\nWhen the pipe is closed at one end, only odd harmonics will survive. In this case, the surviving harmonics will be:\n\n1st harmonic: 50 Hz (1st harmonic, odd)\n3rd harmonic: 150 Hz (3rd harmonic, odd)\n5th harmonic: 250 Hz (5th harmonic, odd)\n\n**Step 5: Choose the correct answer**\n\nThe correct answer is:\n\nA. 50 Hz, 150 Hz, and 250 Hz only\n\nTherefore, the input choice is: **A**.",
+        "extracted_answer": "A",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is required to ionize helium (i.e., to remove one electron)?",
+        "input": "A. 24.6 eV, B. 39.5 eV, C. 51.8 eV, D. 54.4 eV",
+        "answer": "A",
+        "response": "Let's break down the problem step by step.\n\nWe are given that the energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. This means that the total energy required to ionize helium (i.e., to remove one electron) and then remove the second electron is 79.0 eV.\n\nLet's call the energy required to ionize helium (i.e., to remove one electron) \"x\" eV. Then, the energy required to remove the second electron is (79.0 - x) eV.\n\nSince the helium atom is in its ground state, the electrons are in the 1s orbital. When one electron is removed, the remaining electron is still in the 1s orbital. Therefore, the energy required to remove the second electron is the same as the energy required to remove the first electron, which is x eV.\n\nSo, we can set up the equation:\n\nx + x = 79.0 eV\n\nCombine like terms:\n\n2x = 79.0 eV\n\nDivide by 2:\n\nx = 39.5 eV\n\nTherefore, the correct answer is:\n\nB. 39.5 eV",
+        "extracted_answer": "B. 39.5 eV",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A meterstick on one spaceship is measured to be 60 cm long by an occupant of the other spaceship. What is the speed of each spaceship, as measured by the observer on Earth?",
+        "input": "A. 0.4c, B. 0.5c, C. 0.6c, D. 0.7c",
+        "answer": "B",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have two spaceships approaching Earth with equal speeds, but from opposite directions. An occupant of one spaceship measures the length of a meterstick on the other spaceship to be 60 cm.\n\n**Step 2: Identify the relevant concept**\n\nThis problem involves length contraction, which is a consequence of special relativity. When an object moves at high speed relative to an observer, its length appears contracted to the observer.\n\n**Step 3: Apply the length contraction formula**\n\nThe length contraction formula is given by:\n\nL' = L \\* sqrt(1 - v^2/c^2)\n\nwhere L' is the contracted length, L is the proper length (1 meter in this case), v is the relative velocity between the two spaceships, and c is the speed of light.\n\n**Step 4: Plug in the given values**\n\nWe are given that the contracted length L' = 0.6 meters (60 cm). We want to find the relative velocity v between the two spaceships.\n\nRearranging the formula to solve for v, we get:\n\nv = c \\* sqrt(1 - (L'/L)^2)\n\n**Step 5: Calculate the relative velocity**\n\nPlugging in the values, we get:\n\nv = c \\* sqrt(1 - (0.6/1)^2)\n= c \\* sqrt(1 - 0.36)\n= c \\* sqrt(0.64)\n= c \\* 0.8\n\n**Step 6: Find the speed of each spaceship**\n\nSince the two spaceships are approaching Earth with equal speeds, the relative velocity between them is twice the speed of each spaceship. Let's call the speed of each spaceship \"v_spaceship\". Then:\n\nv = 2 \\* v_spaceship\n\nEquating this to the expression we found in Step 5, we get:\n\n2 \\* v_spaceship = c \\* 0.8\n\nv_spaceship = c \\* 0.8 / 2\n= c \\* 0.4\n\n**Step 7: Choose the correct answer**\n\nComparing our result to the options, we see that:\n\nv_spaceship = 0.4c\n\nSo, the correct answer is:\n\nA. 0.4c",
+        "extracted_answer": "A. 0.4c",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maximum near 500 nm. For a body with a surface temperature close to 300 K, at what wavelength would the thermal spectrum reach a maximum?",
+        "input": "A. 10:00 PM, B. 100 Pm, C. 10 mm, D. 100 mm",
+        "answer": "A",
+        "response": "Let's solve this problem step by step.\n\nWe are given that the surface of the Sun has a temperature of 6,000 K and its thermal spectrum reaches a maximum near 500 nm. We want to find the wavelength at which the thermal spectrum of a body with a surface temperature of 300 K reaches a maximum.\n\nWe can use Wien's displacement law, which states that the peak wavelength of a blackbody spectrum is inversely proportional to the temperature of the body. Mathematically, this can be expressed as:\n\n\u03bb_max \u221d 1/T\n\nwhere \u03bb_max is the peak wavelength and T is the temperature of the body.\n\nWe are given that the peak wavelength of the Sun's spectrum is 500 nm at a temperature of 6,000 K. We can use this information to find the constant of proportionality in Wien's displacement law.\n\n\u03bb_max1 = 500 nm\nT1 = 6,000 K\n\n\u03bb_max1 \u221d 1/T1\n500 nm \u221d 1/6,000 K\n\nNow, we can use this constant of proportionality to find the peak wavelength of the thermal spectrum of the body with a surface temperature of 300 K.\n\n\u03bb_max2 \u221d 1/T2\n\u03bb_max2 \u221d 1/300 K\n\nWe can equate the two expressions for \u03bb_max to find:\n\n500 nm \u00d7 (6,000 K) = \u03bb_max2 \u00d7 (300 K)\n\n\u03bb_max2 = (500 nm \u00d7 6,000 K) / 300 K\n\u03bb_max2 = 10,000 nm\n\u03bb_max2 = 10 \u03bcm\n\n\u03bb_max2 is in micrometers, but we need to convert it to millimeters. There are 1,000 micrometers in 1 millimeter, so:\n\n\u03bb_max2 = 10 \u03bcm \u00d7 (1 mm / 1,000 \u03bcm) = 10 mm\n\nTherefore, the correct answer is:\n\nD. 100 mm (no, wait!) \n\nThe correct answer is actually C. 10 mm.",
+        "extracted_answer": "C. 10 mm",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is applied across this combination, the total energy stored in the two capacitors is",
+        "input": "A. 0.09 J, B. 0.18 J, C. 0.27 J, D. 0.41 J",
+        "answer": "A",
+        "response": "Let's solve the problem step by step.\n\nGiven:\n\n* Capacitor 1: C1 = 3 microfarad = 3 \u00d7 10^(-6) F\n* Capacitor 2: C2 = 6 microfarad = 6 \u00d7 10^(-6) F\n* Applied voltage: V = 300 V\n\nSince the capacitors are connected in series, the equivalent capacitance (Ceq) is given by:\n\n1/Ceq = 1/C1 + 1/C2\n= 1/(3 \u00d7 10^(-6)) + 1/(6 \u00d7 10^(-6))\n= (2 + 1)/(6 \u00d7 10^(-6))\n= 3/(6 \u00d7 10^(-6))\n= 1/(2 \u00d7 10^(-6))\n\nCeq = 2 \u00d7 10^(-6) F\n\nThe total energy stored in the capacitors is given by:\n\nU = (1/2) \u00d7 Ceq \u00d7 V^2\n= (1/2) \u00d7 (2 \u00d7 10^(-6)) \u00d7 (300)^2\n= (1/2) \u00d7 (2 \u00d7 10^(-6)) \u00d7 90000\n= 0.18 J\n\nTherefore, the correct answer is:\n\nB. 0.18 J",
+        "extracted_answer": "B. 0.18 J",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)",
+        "input": "A. 0.1 eV, B. 1 eV, C. 10 eV, D. 100 eV",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the concept**\nThe problem is related to electron diffraction, which is similar to X-ray diffraction. The electrons will diffract from the crystal lattice and produce a scattering pattern.\n\n**Step 2: Identify the relevant equation**\nThe de Broglie wavelength (\u03bb) of the electrons is related to their kinetic energy (K) by:\n\n\u03bb = h / \u221a(2mK)\n\nwhere h is Planck's constant, and m is the mass of an electron.\n\n**Step 3: Set up the problem**\nWe want to find the kinetic energy (K) of the electrons needed to see a diffraction pattern. The lattice spacing of the crystal is given as 0.4 nm.\n\n**Step 4: Apply the Bragg condition**\nFor diffraction to occur, the de Broglie wavelength of the electrons should be comparable to the lattice spacing of the crystal. Let's assume that the de Broglie wavelength is equal to the lattice spacing:\n\n\u03bb = 0.4 nm = 0.4 \u00d7 10^(-9) m\n\n**Step 5: Solve for kinetic energy**\nNow, we can plug in the values into the de Broglie wavelength equation:\n\n0.4 \u00d7 10^(-9) m = h / \u221a(2mK)\n\nRearranging the equation to solve for K, we get:\n\nK = (h^2) / (2m\u03bb^2)\n\nPlugging in the values, we get:\n\nK \u2248 (6.626 \u00d7 10^(-34) J s)^2 / (2 \u00d7 9.11 \u00d7 10^(-31) kg \u00d7 (0.4 \u00d7 10^(-9) m)^2)\n\nK \u2248 64.5 eV\n\n**Step 6: Choose the correct answer**\nThe closest answer choice to our calculated value is:\n\nD. 100 eV\n\nTherefore, the correct answer is:\n\n**D. 100 eV**",
+        "extracted_answer": "D. 100 eV",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Which of the following gives the ratio of the angular momentum of A to the angular momentum of B?",
+        "input": "A. 4, B. 2, C. sqrt(2), D. 1/sqrt(2)",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\nGiven:\n\n* Two identical satellites, A and B, are in circular orbits around Earth.\n* The orbital radius of A is twice that of B, i.e., r_A = 2r_B.\n\nWe need to find the ratio of the angular momentum of A to the angular momentum of B.\n\nThe angular momentum (L) of an object in circular motion is given by:\n\nL = r \u00d7 p\n\nwhere r is the radius of the orbit and p is the linear momentum (p = mv, where m is the mass and v is the velocity).\n\nSince the satellites are identical, they have the same mass (m). The linear momentum (p) is also proportional to the velocity (v), which is related to the orbital radius (r) by the equation:\n\nv = \u221a(G \\* M_E / r)\n\nwhere G is the gravitational constant and M_E is the mass of Earth.\n\nSubstituting this expression for v into the equation for p, we get:\n\np \u221d 1/\u221ar\n\nNow, we can write the angular momentum (L) for each satellite:\n\nL_A = r_A \u00d7 p_A = 2r_B \u00d7 p_A\nL_B = r_B \u00d7 p_B = r_B \u00d7 p_B\n\nSince the satellites are identical, p_A = p_B. Therefore:\n\nL_A = 2r_B \u00d7 p_B\nL_B = r_B \u00d7 p_B\n\nNow, we can find the ratio of the angular momentum of A to the angular momentum of B:\n\nL_A / L_B = (2r_B \u00d7 p_B) / (r_B \u00d7 p_B) = 2\n\nSo, the correct answer is:\n\nB. 2",
+        "extracted_answer": "B. 2",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": -1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?",
+        "input": "A. 0, B. 1/4, C. 1/3, D. 1/2",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Define the system and the collision**\n\nWe have a one-dimensional collision between two particles: a particle of mass 2m (let's call it particle A) and a particle of mass m (let's call it particle B) at rest. After the collision, the particles stick together, forming a single particle of mass 2m + m = 3m.\n\n**Step 2: Conservation of momentum**\n\nSince the collision is one-dimensional, we can use the conservation of momentum equation:\n\nInitial momentum = Final momentum\n\nLet the initial velocity of particle A be v0. Since particle B is at rest, its initial velocity is 0. The total initial momentum is:\n\np_initial = 2m \\* v0 + 0 = 2m \\* v0\n\nAfter the collision, the two particles stick together, forming a single particle of mass 3m with velocity v_f (final velocity). The total final momentum is:\n\np_final = 3m \\* v_f\n\nEquating the initial and final momenta, we get:\n\n2m \\* v0 = 3m \\* v_f\n\n**Step 3: Solve for the final velocity**\n\nSimplifying the equation, we get:\n\nv_f = (2/3) \\* v0\n\n**Step 4: Calculate the initial and final kinetic energies**\n\nThe initial kinetic energy of particle A is:\n\nK_initial = (1/2) \\* 2m \\* v0^2 = m \\* v0^2\n\nThe final kinetic energy of the combined particle is:\n\nK_final = (1/2) \\* 3m \\* v_f^2 = (1/2) \\* 3m \\* ((2/3) \\* v0)^2 = (4/9) \\* m \\* v0^2\n\n**Step 5: Calculate the fraction of kinetic energy lost**\n\nThe kinetic energy lost in the collision is:\n\n\u0394K = K_initial - K_final = m \\* v0^2 - (4/9) \\* m \\* v0^2 = (5/9) \\* m \\* v0^2\n\nThe fraction of kinetic energy lost is:\n\nf = \u0394K / K_initial = ((5/9) \\* m \\* v0^2) / (m \\* v0^2) = 5/9\n\n**Step 6: Simplify the fraction**\n\nWe can simplify the fraction by dividing both numerator and denominator by 2:\n\nf = 5/9 = 1/2 \\* 5/4.5 = 1/2 \\* 10/9 = 10/18 = 1/2 \\* 5/9 = 1/2 \\* 1.111... \u2248 1/2\n\n**Answer**\n\nThe correct answer is:\n\nD. 1/2",
+        "extracted_answer": "D. 1/2",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is",
+        "input": "A. 500 nm, B. 550 nm, C. 600 nm, D. 650 nm",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a puddle of water with an index of refraction of 1.33, and a thin layer of oil with an index of refraction of 1.5 floating on its surface. White light is incident normally on this system. We need to find the wavelength that is most strongly reflected.\n\n**Step 2: Identify the relevant phenomenon**\n\nThe relevant phenomenon here is thin-film interference. When light reflects off the oil-water interface, it undergoes interference due to the path difference between the light reflected from the top and bottom surfaces of the oil layer.\n\n**Step 3: Determine the condition for constructive interference**\n\nFor constructive interference to occur, the path difference between the two reflected light waves must be an integer multiple of the wavelength. Since the oil layer is very thin (500 nm), we can assume that the path difference is approximately equal to 2 times the thickness of the oil layer (due to the round trip of the light wave).\n\nLet's call the wavelength of the light \u03bb. Then, the condition for constructive interference is:\n\n2 \u00d7 500 nm = m \u00d7 \u03bb\n\nwhere m is an integer.\n\n**Step 4: Find the wavelength that satisfies the condition**\n\nRearranging the equation, we get:\n\n\u03bb = 1000 nm / m\n\nSince m is an integer, the possible wavelengths that satisfy the condition are:\n\n\u03bb = 1000 nm, 500 nm, 333.33 nm, 250 nm, ...\n\n**Step 5: Identify the correct answer**\n\nAmong the options provided, the wavelength that is closest to one of the possible wavelengths is:\n\nA. 500 nm\n\nTherefore, the correct answer is:\n\n**A. 500 nm**",
+        "extracted_answer": "A. 500 nm",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the velocity of the particle. What is the particle\u2019s mass if it has a cyclotron frequency of 1,600 hertz?",
+        "input": "A. 2.5 * 10^-23 kg, B. 1.2 * 10^-22 kg, C. 3.3 * 10^-22 kg, D. 5.0 * 10^-21 kg",
+        "answer": "A",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a non-relativistic particle with a charge twice that of an electron, moving through a uniform magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the velocity of the particle. We need to find the particle's mass given its cyclotron frequency.\n\n**Step 2: Identify the relevant equations**\n\nThe cyclotron frequency (f) of a charged particle in a magnetic field is given by:\n\nf = (qB) / (2\u03c0m)\n\nwhere q is the charge of the particle, B is the magnetic field strength, and m is the mass of the particle.\n\n**Step 3: Plug in the given values**\n\nWe are given:\n\nf = 1600 Hz = 1600 s^(-1)\nB = \u03c0/4 tesla = \u03c0/4 T\nq = 2 \u00d7 e (since the charge is twice that of an electron)\ne = 1.6 \u00d7 10^(-19) C ( elementary charge)\n\n**Step 4: Rearrange the equation to solve for m**\n\nRearrange the equation to isolate m:\n\nm = (qB) / (2\u03c0f)\n\n**Step 5: Plug in the values and calculate m**\n\nm = (2 \u00d7 1.6 \u00d7 10^(-19) C \u00d7 \u03c0/4 T) / (2\u03c0 \u00d7 1600 s^(-1))\nm \u2248 3.3 \u00d7 10^(-22) kg\n\n**Answer**\n\nThe correct answer is:\n\nC. 3.3 \u00d7 10^(-22) kg",
+        "extracted_answer": "C. 3.3 \u00d7 10^(-22) kg",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air resistance is neglected, what is the velocity of the payload relative to the plane 4.0 s after it is released?",
+        "input": "A. 0, B. 40 m/s down, C. 80 m/s down, D. 100 m/s north and 40 m/s down",
+        "answer": "B",
+        "response": "Let's break down the problem step by step:\n\n1. The airplane is traveling due north, parallel to the ground, at a constant speed of 100 m/s. This means the airplane's velocity is 100 m/s north.\n2. The payload is dropped, which means it is no longer moving with the airplane. Initially, the payload has the same velocity as the airplane, 100 m/s north.\n3. Since air resistance is neglected, the only force acting on the payload is gravity, which accelerates it downward. The acceleration due to gravity is 9.8 m/s\u00b2.\n4. We want to find the velocity of the payload relative to the plane 4.0 s after it is released. To do this, we need to find the velocity of the payload in the vertical direction (downward) and then combine it with the horizontal velocity (north).\n\nVertical direction:\nThe payload starts from rest (initial velocity = 0) and accelerates downward due to gravity. We can use the equation:\n\nv = u + at\n\nwhere v is the final velocity, u is the initial velocity (0), a is the acceleration (9.8 m/s\u00b2), and t is the time (4.0 s).\n\nv = 0 + (9.8 m/s\u00b2)(4.0 s) = 39.2 m/s down\n\nHorizontal direction:\nThe payload still has the same horizontal velocity as the airplane, 100 m/s north, since there is no force acting on it in the horizontal direction.\n\n5. To find the velocity of the payload relative to the plane, we need to combine the horizontal and vertical velocities. The horizontal velocity is 100 m/s north, and the vertical velocity is 39.2 m/s down. We can use the Pythagorean theorem to find the resultant velocity:\n\nv_rel = \u221a(v_horizontal\u00b2 + v_vertical\u00b2)\n= \u221a((100 m/s)\u00b2 + (39.2 m/s)\u00b2)\n= \u221a(10000 + 1538.4)\n= \u221a11338.4\n\u2248 106.4 m/s\n\nThe direction of the resultant velocity can be found using the tangent function:\n\ntan(\u03b8) = v_vertical / v_horizontal\n= 39.2 m/s / 100 m/s\n= 0.392\n\u03b8 \u2248 21.6\u00b0 below the horizontal\n\nSo, the velocity of the payload relative to the plane is approximately 106.4 m/s at an angle of 21.6\u00b0 below the horizontal.\n\nNow, let's compare our answer with the options:\n\nA. 0 ( incorrect, the payload has a non-zero velocity relative to the plane)\nB. 40 m/s down (incorrect, the vertical velocity is approximately 39.2 m/s, but the resultant velocity is not just vertical)\nC. 80 m/s down (incorrect, the vertical velocity is approximately 39.2 m/s, and the resultant velocity is not just vertical)\nD. 100 m/s north and 40 m/s down (correct, this option matches our calculation: 100 m/s north is the horizontal velocity, and 40 m/s down is close to the vertical velocity of 39.2 m/s)\n\nTherefore, the correct answer is:\n\nD. 100 m/s north and 40 m/s down",
+        "extracted_answer": "D. 100 m/s north and 40 m/s down",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the positron replacing the proton. If a positronium atom makes a transition from the state with n=3 to a state with n=1, the energy of the photon emitted in this transition is closest to",
+        "input": "A. 6.0 e, B. 6.8 eV, C. 12.2 eV, D. 13.6 eV",
+        "answer": "A",
+        "response": "Let's solve this problem step by step.\n\nWe are given that positronium is similar to the hydrogen atom, with the positron replacing the proton. This means that we can use the same energy level formula for positronium as we do for hydrogen.\n\nThe energy level formula for hydrogen-like atoms is:\n\nE = -13.6 eV / n^2\n\nwhere n is the principal quantum number.\n\nWe are given that the positronium atom makes a transition from the state with n=3 to a state with n=1. To find the energy of the photon emitted in this transition, we need to find the energy difference between these two states.\n\nFirst, let's find the energy of the state with n=3:\n\nE3 = -13.6 eV / 3^2 = -13.6 eV / 9 = -1.51 eV\n\nNext, let's find the energy of the state with n=1:\n\nE1 = -13.6 eV / 1^2 = -13.6 eV\n\nNow, let's find the energy difference between these two states:\n\n\u0394E = E1 - E3 = -13.6 eV - (-1.51 eV) = -12.09 eV\n\nSince the energy of the photon emitted is equal to the energy difference between the two states, we have:\n\nE_photon = \u0394E = -12.09 eV\n\nThe closest answer choice to this value is:\n\nC. 12.2 eV\n\nTherefore, the correct answer is:\n\nC. 12.2 eV",
+        "extracted_answer": "C. 12.2 eV",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": -1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": -1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+        "input": "A. 4, B. 5, C. 6, D. 20",
+        "answer": "A",
+        "response": "Let's break down the problem step by step.\n\nGiven:\n\n1. The refracting telescope consists of two converging lenses separated by 100 cm.\n2. The eye-piece lens has a focal length of 20 cm.\n\nWe need to find the angular magnification of the telescope.\n\nThe angular magnification of a refracting telescope is given by:\n\nMagnification (M) = -f_o / f_e\n\nwhere f_o is the focal length of the objective lens and f_e is the focal length of the eye-piece lens.\n\nWe are given the distance between the two lenses as 100 cm, but we need to find the focal length of the objective lens (f_o). Since the lenses are separated by 100 cm, we can assume that the objective lens is a converging lens with a focal length of 100 cm (this is a reasonable assumption, as the objective lens is typically much larger than the eye-piece lens).\n\nNow, we can plug in the values:\n\nM = -f_o / f_e\n= -100 cm / 20 cm\n= -5\n\nThe negative sign indicates that the image is inverted.\n\nSo, the angular magnification of the telescope is 5.\n\nThe correct answer is:\n\nB. 5",
+        "extracted_answer": "B. 5",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "One end of a Nichrome wire of length 2L and cross-sectional area A is attached to an end of another Nichrome wire of length L and cross- sectional area 2A. If the free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt, the potential at the junction of the two wires is most nearly equal to",
+        "input": "A. 2.4 V, B. 3.3 V, C. 4.5 V, D. 5.7 V",
+        "answer": "A",
+        "response": "Let's break down the problem step by step.\n\nWe have two Nichrome wires connected in series, with different lengths and cross-sectional areas. The longer wire has a length of 2L and a cross-sectional area of A, while the shorter wire has a length of L and a cross-sectional area of 2A.\n\nWe are given the electric potentials at the free ends of the wires: 8.0 volts at the free end of the longer wire and 1.0 volt at the free end of the shorter wire. We need to find the potential at the junction of the two wires.\n\nTo solve this problem, we can use the concept of resistivity and resistance. The resistivity (\u03c1) of a material is a measure of how much it resists the flow of electric current. For Nichrome wire, the resistivity is constant.\n\nThe resistance (R) of a wire is given by:\n\nR = \u03c1 \u00d7 L / A\n\nwhere L is the length of the wire and A is its cross-sectional area.\n\nFor the longer wire, the resistance is:\n\nR1 = \u03c1 \u00d7 2L / A\n\nFor the shorter wire, the resistance is:\n\nR2 = \u03c1 \u00d7 L / 2A\n\nSince the wires are connected in series, the total resistance (R_total) is the sum of the individual resistances:\n\nR_total = R1 + R2\n= \u03c1 \u00d7 2L / A + \u03c1 \u00d7 L / 2A\n= \u03c1 \u00d7 (2L / A + L / 2A)\n= \u03c1 \u00d7 (5L / 2A)\n\nNow, we can use Ohm's law to relate the potential difference (\u0394V) across the total resistance to the current (I) flowing through it:\n\n\u0394V = I \u00d7 R_total\n\nWe are given the potential difference across the entire circuit: \u0394V = 8.0 V - 1.0 V = 7.0 V.\n\nSince the current is the same throughout the circuit, we can set up a system of equations using Ohm's law for each wire:\n\nI \u00d7 R1 = 8.0 V - V_junction\nI \u00d7 R2 = V_junction - 1.0 V\n\nwhere V_junction is the potential at the junction of the two wires.\n\nSubstituting the expressions for R1 and R2, we get:\n\nI \u00d7 \u03c1 \u00d7 2L / A = 8.0 V - V_junction\nI \u00d7 \u03c1 \u00d7 L / 2A = V_junction - 1.0 V\n\nSimplifying and solving for V_junction, we get:\n\nV_junction = (8.0 V \u00d7 2 + 1.0 V) / 3\n= 3.33 V\n\nTherefore, the correct answer is:\n\nB. 3.3 V",
+        "extracted_answer": "B. 3.3 V",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+        "input": "A. 4, B. 5, C. 6, D. 20",
+        "answer": "A",
+        "response": "Let's break down the problem step by step.\n\nGiven:\n\n1. The refracting telescope consists of two converging lenses separated by 100 cm.\n2. The eye-piece lens has a focal length of 20 cm.\n\nWe need to find the angular magnification of the telescope.\n\nThe angular magnification of a refracting telescope is given by:\n\nMagnification (M) = -f_o / f_e\n\nwhere f_o is the focal length of the objective lens and f_e is the focal length of the eye-piece lens.\n\nWe are given the distance between the two lenses as 100 cm, but we need to find the focal length of the objective lens (f_o). Since the lenses are separated by 100 cm, we can assume that the objective lens is also a converging lens, and its focal length is equal to the distance between the lenses.\n\nSo, f_o = 100 cm\n\nNow, we can plug in the values:\n\nM = -f_o / f_e\n= -100 cm / 20 cm\n= -5\n\nThe negative sign indicates that the image is inverted.\n\nSince the question asks for the angular magnification, we can ignore the negative sign and take the absolute value:\n\nM = 5\n\nTherefore, the correct answer is:\n\nB. 5",
+        "extracted_answer": "B. 5",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": -1,
+            "Computation_Error": 1
+        }
+    },
+    {
+        "question": "The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately",
+        "input": "A. 0.1 GeV/c^2, B. 0.2 GeV/c^2, C. 0.5 GeV/c^2, D. 1.0 GeV/c^2",
+        "answer": "D",
+        "response": "Let's solve the problem step by step.\n\nWe are given:\n\n* Total energy (E) = 5.0 GeV\n* Momentum (p) = 4.9 GeV/c\n\nWe need to find the rest mass (m) of the particle.\n\nThe total energy of a particle is related to its rest mass and momentum by the equation:\n\nE\u00b2 = (pc)^2 + (mc^2)^2\n\nwhere c is the speed of light.\n\nRearranging the equation to solve for m, we get:\n\nm\u00b2 = (E\u00b2 - (pc)^2) / c^4\n\nPlugging in the given values, we get:\n\nm\u00b2 = (5.0 GeV)^2 - (4.9 GeV/c)^2 / c^4\n= 25 GeV\u00b2 - 24.01 GeV\u00b2 / c^4\n= 0.99 GeV\u00b2 / c^4\n\nTaking the square root of both sides, we get:\n\nm = \u221a(0.99 GeV\u00b2 / c^4) \u2248 0.32 GeV/c\u00b2\n\nNow, we need to find the closest answer among the options.\n\nThe correct answer is:\n\nB. 0.3 GeV/c\u00b2 (approximately)\n\nHowever, since 0.3 GeV/c\u00b2 is not among the options, we choose the closest value, which is:\n\nB. 0.2 GeV/c\u00b2",
+        "extracted_answer": "B. 0.2 GeV/c\u00b2",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": 1,
+            "Concept_Missing": 1,
+            "Computation_Error": -1
+        }
+    },
+    {
+        "question": "During a hurricane, a 1,200 Hz warning siren on the town hall sounds. The wind is blowing at 55 m/s in a direction from the siren toward a person 1 km away. With what frequency does the sound wave reach the person? (The speed of sound in air is 330 m/s.)",
+        "input": "A. 1,000 Hz, B. 1,030 Hz, C. 1,200 Hz, D. 1,400 Hz",
+        "answer": "C",
+        "response": "Let's break down the problem step by step.\n\n**Step 1: Understand the problem**\n\nWe have a warning siren emitting sound waves at a frequency of 1,200 Hz. The wind is blowing from the siren towards a person 1 km away at a speed of 55 m/s. We need to find the frequency of the sound wave that reaches the person.\n\n**Step 2: Identify the relevant concepts**\n\nThis problem involves the Doppler effect, which is the change in frequency of a wave when the source and observer are moving relative to each other.\n\n**Step 3: Calculate the relative velocity**\n\nThe wind is blowing from the siren towards the person, so the relative velocity between the siren and the person is the sum of the speed of sound and the wind speed:\n\nv_relative = v_sound + v_wind = 330 m/s + 55 m/s = 385 m/s\n\n**Step 4: Apply the Doppler shift formula**\n\nThe Doppler shift formula for a moving source and a stationary observer is:\n\nf_observed = f_source \\* (v_relative / v_sound)\n\nwhere f_observed is the frequency observed by the person, f_source is the frequency emitted by the siren, v_relative is the relative velocity, and v_sound is the speed of sound.\n\nPlugging in the values, we get:\n\nf_observed = 1,200 Hz \\* (385 m/s / 330 m/s) = 1,400 Hz\n\n**Step 5: Choose the correct answer**\n\nThe correct answer is:\n\nD. 1,400 Hz",
+        "extracted_answer": "D. 1,400 Hz",
+        "judgement": 0,
+        "flags": {
+            "Correct_Variable": 1,
+            "Final_Objective": 1,
+            "Wrong_Concept": -1,
+            "Concept_Missing": 1,
+            "Computation_Error": -1
+        }
+    }
+]
