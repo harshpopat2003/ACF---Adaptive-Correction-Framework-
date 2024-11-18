@@ -98,7 +98,7 @@ PhysicsQA_Dict = {
 
 
 def load_data(data_path):
-    with open(data_path, 'r') as f:
+    with open(data_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     if 'MMLU' in data_path:
@@ -148,12 +148,12 @@ def evaluate(dataset_filename, max_steps):
         results_ss.append(result)
 
         # Save the results after each iteration
-        with open(result_path, 'w') as f:
-            json.dump(results, f, indent=2)
+        with open(result_path, 'w', encoding='utf-8') as f:
+            json.dump(results, f, indent=4, ensure_ascii=False)
 
 
-    with open(result_path, 'w') as f:
-        json.dump(results, f, indent=2)
+    with open(result_path, 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=4, ensure_ascii=False )
     
 
 def main(dataset_filename, max_steps, graph_rag_dir, dataset_dir, result_dir):
