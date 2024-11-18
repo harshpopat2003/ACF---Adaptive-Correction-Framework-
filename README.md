@@ -1,46 +1,45 @@
 # ACF - Adaptive Correction Framework 
 ## Requirements
 
-The code is written in Python 3.8. Before running, you need to first install the required packages by typing following commands (Using a virtual environment is recommended):
+The code is written in Python 3.10. Before running, you need to first install the required packages by typing following commands (Using a virtual environment is recommended):
 
 ```
-conda create --name mora python==3.8
-conda activate mora
+conda create --name ACF python==3.10
+conda activate ACF
 pip3 install -r requirements.txt
 ```
 
 ## Datasets
-You can access the datasets in `MoRA/Dataset`
+You can access the datasets in `ACF/Dataset`
 
 **Datasets:**
 
 1. `MMLU_College_Physics.json`
 2. `MMLU_High_School_Physics.json`
-3. `PhysicsQA.json`
 4. `SciEval_Static_Physics.json`
 
 ## Agent
 
-MoRA implementation can be found in `MoRA/agent`
+ACF implementation can be found in `ACF/agent`
 
 **Python Files:**
 
-1. `agent.py`: Contains the `MoRA` agent class
+1. `agent.py`: Contains the `ACF` agent class
 2. `prompts.py`: Contains all the error identification & refinement prompts
 3. `utils.py`: Contains utilities functions for using GraphRAG
-4. `main.py`: Contains `evaluate()` function for running MoRA on datasets
+4. `main.py`: Contains `evaluate()` function for running ACF on datasets
 
 ## Knowledge Base
 
 Download the `GRAPH_RAG` folder which contains Topic wise KBs from here: [Google Drive](https://drive.google.com/file/d/1reSQgvrqGwh_lNEXLbJlbaRCHIYnmDLd/view)
 
-Replace empty  `MoRA/GRAPH_RAG` folder with the downloaded one.
+Replace empty  `ACF/GRAPH_RAG` folder with the downloaded one.
 
 Using GraphRAG, local search is performed on these KBs to obtain conceptual contexts.
 
 ## Experiments
 
-### Run MoRA
+### Run ACF
 
 **Steps:**
 
@@ -68,7 +67,7 @@ Using GraphRAG, local search is performed on these KBs to obtain conceptual cont
    Example: 
 
    ```
-   python main.py PhysicsQA.json --max_steps 5 --graph_rag_dir 'MoRA/GRAPH_RAG' --dataset_dir 'MoRA/Dataset' --result_dir 'MoRA/Results'
+   python main.py PhysicsQA.json --max_steps 5 --graph_rag_dir 'ACF/GRAPH_RAG' --dataset_dir 'ACF/Dataset' --result_dir 'ACF/Results'
    ```
 
    
