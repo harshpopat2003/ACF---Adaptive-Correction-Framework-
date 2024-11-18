@@ -1,4 +1,5 @@
 import os
+import Agent.main as AgentMain
 
 def menu_application():
     language = "en"  # Default language
@@ -18,14 +19,16 @@ def menu_application():
             print("-" * 50)
             print("1. Set Language (current: {})".format(language.upper()))
             print("2. Enter a problem")
-            print("3. End Application")
+            print("3. Test on Dataset")
+            print("4. End Application")
             print("-" * 50)
         else:  # Hindi
             print("\nनीचे दिए गए मेनू से एक विकल्प चुनें:")
             print("-" * 50)
             print("1. भाषा बदलें (वर्तमान: {})".format(language.upper()))
             print("2. एक समस्या दर्ज करें")
-            print("3. एप्लिकेशन बंद करें")
+            print("3. डेटा सेट पर परीक्षण करें")
+            print("4. एप्लिकेशन बंद करें")
             print("-" * 50)
 
         try:
@@ -57,6 +60,25 @@ def menu_application():
                 result = ""
 
             elif choice == 3:
+                if language == "en":
+                    print("Testing on Dataset...\n")
+                else:
+                    print("डेटा सेट पर परीक्षण किया जा रहा है...\n")
+
+                dataset_filename = input("Enter the dataset filename: " if language == "en" else "डेटा सेट फ़ाइल नाम दर्ज करें: ").strip()
+                max_steps = int(input("Enter the maximum number of iteration steps for refinement (default: 2): " if language == "en" else "शोधन के लिए अधिकतम पुनरावृत्ति चरणों की संख्या दर्ज करें (डिफ़ॉल्ट: 2): ") or "2")
+                graph_rag_dir = input("Enter the GRAPH_RAG directory path: " if language == "en" else "GRAPH_RAG निर्देशिका पथ दर्ज करें: ").strip()
+                dataset_dir = input("Enter the dataset directory path: " if language == "en" else "डेटा सेट निर्देशिका पथ दर्ज करें: ").strip()
+                result_dir = input("Enter the result directory path: " if language == "en" else "परिणाम निर्देशिका पथ दर्ज करें: ").strip()
+
+                print("\nRunning evaluation on the dataset...\n" if language == "en" else "\nडेटा सेट पर मूल्यांकन चल रहा है...\n")
+
+                # Call the AgentMain.main function for dataset evaluation
+                AgentMain.main(dataset_filename, max_steps, graph_rag_dir, dataset_dir, result_dir)
+
+                print(f"Evaluation completed. Results saved to {result_dir}/{dataset_filename}" if language == "en" else f"मूल्यांकन पूर्ण। परिणाम {result_dir}/{dataset_filename} में सहेजे गए।")
+
+            elif choice == 4:
                 print("Thank you for using the application!".center(terminal_width) if language == "en" else "एप्लिकेशन का उपयोग करने के लिए धन्यवाद!".center(terminal_width))
                 print(header_border)
                 break
