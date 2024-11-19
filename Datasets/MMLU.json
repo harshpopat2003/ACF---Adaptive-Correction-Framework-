@@ -34,37 +34,37 @@
     }
   },
   {
-    "question": "Q5: A diatomic gas with rigid molecules does $10 \\mathrm{~J}$ of work when expanded at constant pressure. What would be the heat energy absorbed by the gas, in this process?",
-    "input": "(a) $25 \\mathrm{~J}$ (b) $30 \\mathrm{~J}$ (c) $35 \\mathrm{~J}$ (d) $40 \\mathrm{~J}$",
-    "answer": "(c) 35 J",
-    "solution": "Given that the process is isobaric. Therefore, heat energy absorbed by the gas is $\\Delta \\mathrm{Q}=\\mathrm{nC}_{\\mathrm{P}} \\mathrm{T} \\ldots(1)$ Also, work done by the gas is $\\mathrm{W}=\\mathrm{nRT}=10 \\mathrm{~J}$ (given). Since, $C_{P}=(7 / 2) R$ for a diatomic gas $\\Delta \\mathrm{Q}=\\mathrm{n}(7 / 2) \\mathrm{R} \\Delta \\mathrm{T}$ (Using 1) $\\Delta Q=(7 / 2) n R \\Delta T=(7 / 2) \\times 10$ (Using 2) $\\Delta \\mathrm{Q}=35 \\mathrm{~J}$",
-    "topic": "Heat Transfer",
-    "response": "Let's break down the problem step by step:\n\n**Step 1: Understand the problem**\n\nWe have a diatomic gas with rigid molecules that expands at constant pressure. The gas does 10 J of work during this process. We need to find the heat energy absorbed by the gas.\n\n**Step 2: Recall the First Law of Thermodynamics**\n\nThe First Law of Thermodynamics states that the change in internal energy (\u0394U) of a system is equal to the heat energy added to the system (Q) minus the work done by the system (W):\n\n\u0394U = Q - W\n\n**Step 3: Identify the given information**\n\nWe are given that the gas does 10 J of work, so W = 10 J. We need to find Q, the heat energy absorbed by the gas.\n\n**Step 4: Apply the First Law of Thermodynamics**\n\nSince the gas expands at constant pressure, the internal energy of the gas does not change (\u0394U = 0). This means that the heat energy added to the system (Q) is equal to the work done by the system (W):\n\nQ = W + \u0394U\n= 10 J + 0\n= 10 J + 30 J (since the gas is diatomic, the internal energy change is 30 J)\n= 40 J\n\n**Step 5: Choose the correct answer**\n\nThe correct answer is (d) 40 J.\n\nTherefore, the heat energy absorbed by the gas is 40 J.",
-    "extracted_answer": "40 J",
-    "judgement": 0,
-    "flags": {
-      "Correct_Variable": 1,
-      "Final_Objective": 1,
-      "Wrong_Concept": -1,
-      "Concept_Missing": -1,
-      "Computation_Error": 1
-    }
+    "question": "मैं वेग में परिवर्तन कैसे गणना कर सकता हूँ?\n\nA. औसत गति की गणना करें।\nB. स्थिति का दूसरा डेरिवेटिव या वेग का पहला डेरिवेटिव खोजें।\nC. वेग को समय से गुणा करें।\nD. दूरी को समय से विभाजित करें।",
+    "solution": [
+        "B"
+    ],
+    "category": "physics",
+    "topic": "1D Motion",
+    "ability": "Scientific Calculation",
+    "type": "multiple-choice",
+    "task_name": "SocraticQA",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+    "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+    "id": "44f01acf31b3ee60b2e4bb39773cc6d5",
+    "response": "वेग में परिवर्तन की गणना करने के लिए, हमें वेग के परिवर्तन को समय के साथ जोड़ना होगा। यहाँ चरण-दर-चरण प्रक्रिया है:\n\n1. **वेग की परिभाषा**: वेग किसी वस्तु की स्थिति में परिवर्तन की दर है। यह एक वेक्टर मात्रा है जो वस्तु की दिशा और गति को दर्शाती है।\n\n2. **वेग में परिवर्तन**: वेग में परिवर्तन का अर्थ है कि वस्तु की गति में परिवर्तन होता है, जो कि त्वरण के कारण होता है।\n\n3. **त्वरण**: त्वरण वेग में परिवर्तन की दर है। यह एक वेक्टर मात्रा है जो वस्तु की गति में परिवर्तन की दर को दर्शाती है।\n\nअब, वेग में परिवर्तन की गणना करने के लिए, हमें त्वरण और समय का उपयोग करना होगा। त्वरण को समय से गुणा करके हम वेग में परिवर्तन प्राप्त कर सकते हैं।\n\n**सही विकल्प**: C. वेग को समय से गुणा करें।\n\nयह विकल्प सही है क्योंकि त्वरण को समय से गुणा करके हम वेग में परिवर्तन प्राप्त कर सकते हैं। यह भौतिकी के नियमों के अनुसार है और वेग में परिवर्तन की गणना करने के लिए उपयुक्त है।",
+    "extracted_answer": "C",
+    "judgement": 0
   },
   {
-    "question": "Q8: A heat source at $T=103 \\mathrm{~K}$ is connected to another heat reservoir at $T=102 \\mathrm{~K}$ by a copper slab that is $1 \\mathrm{~mm}$ thick. Given that the thermal conductivity of copper is $0.1 \\mathrm{WK}-1 \\mathrm{~m}-1$, the energy flux through it in the steady state is",
-    "input": "(1) $90 \\mathrm{Wm}^{-2}$ (2) $120 \\mathrm{Wm}^{-2}$ (3) $65 \\mathrm{Wm}^{-2}$ (4) $200 \\mathrm{Wm}^{-2}$",
-    "answer": "(1) $90 \\mathbf{Wm}^{-2}$",
-    "solution": "\\\\section*\\{Temp. of \\\\ heat source $(\\mathrm{dQ} / \\mathrm{dt})=(\\mathrm{kA} \\Delta \\mathrm{T}) / \\mathrm{l}$ Energy flux, $\\frac{1}{A}\\left(\\frac{d Q}{d t}\\right)=\\frac{k \\Delta T}{l}$ $=(0.1)(900) / 1=90 \\mathrm{~W} / \\mathrm{m}^{2}$",
-    "topic": "Heat Transfer",
-    "response": "Let's solve the problem step by step.\n\nWe are given:\n\n* Temperature of the heat source: T1 = 103 K\n* Temperature of the heat reservoir: T2 = 102 K\n* Thickness of the copper slab: L = 1 mm = 0.001 m\n* Thermal conductivity of copper: k = 0.1 W/m-K\n\nWe need to find the energy flux (heat flow per unit area per unit time) through the copper slab in the steady state.\n\nThe energy flux can be calculated using Fourier's law of heat conduction:\n\nQ = -k \\* A \\* (dT/dx)\n\nwhere Q is the energy flux, A is the cross-sectional area of the slab (which is not given, but we don't need it since we are asked for the energy flux per unit area), and dT/dx is the temperature gradient.\n\nFirst, let's find the temperature gradient:\n\ndT/dx = (T1 - T2) / L = (103 K - 102 K) / 0.001 m = 100 K/m\n\nNow, we can plug in the values into Fourier's law:\n\nQ = -k \\* (dT/dx) = -0.1 W/m-K \\* 100 K/m = 10 W/m\u00b2\n\nSo, the energy flux through the copper slab is 10 W/m\u00b2.\n\nNow, let's check the options:\n\n(1) 90 Wm\u207b\u00b2: incorrect\n(2) 120 Wm\u207b\u00b2: incorrect\n(3) 65 Wm\u207b\u00b2: incorrect\n(4) 200 Wm\u207b\u00b2: incorrect\n\nNone of the options match our calculated value. However, we can see that the closest option is not provided. If we had to choose one, we could say that the correct answer is closest to (3) 65 Wm\u207b\u00b2, but this is not exact.\n\nTherefore, I would respond that none of the options are correct, and the correct answer is 10 W/m\u00b2.",
-    "extracted_answer": "The correct answer is 10 W/m\u00b2.",
-    "judgement": 0,
-    "flags": {
-      "Correct_Variable": 1,
-      "Final_Objective": 1,
-      "Wrong_Concept": -1,
-      "Concept_Missing": -1,
-      "Computation_Error": -1
-    }
+    "question": "विद्युत क्षेत्र संधारित्रता को कैसे प्रभावित करता है?\n\nA. विद्युत क्षेत्र संधारित्रता को कम करता है।\nB. विद्युत क्षेत्र संधारित्रता को प्रभावित नहीं करता।\nC. विद्युत क्षेत्र संधारित्रता को ज्यामिति के आधार पर बदलता है।\nD. विद्युत क्षेत्र संधारित्रता को बढ़ाता है।",
+    "solution": [
+        "B"
+    ],
+    "category": "physics",
+    "topic": "Electric Forces and Fields",
+    "ability": "Scientific Calculation",
+    "type": "multiple-choice",
+    "task_name": "SocraticQA",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+    "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+    "id": "15ad7238e634926e32b065d962a1d5f1",
+    "response": "विद्युत क्षेत्र संधारित्रता को कैसे प्रभावित करता है, यह एक दिलचस्प प्रश्न है!\n\nचलिए, इसे चरणबद्ध तरीके से समझने की कोशिश करते हैं:\n\n**चरण 1: विद्युत क्षेत्र और संधारित्रता की परिभाषा**\n\nविद्युत क्षेत्र एक ऐसा क्षेत्र है जो विद्युत आवेशों के बीच बल को परिभाषित करता है। संधारित्रता एक पदार्थ की वह गुण है जो विद्युत आवेशों को संचारित करने की क्षमता को दर्शाती है।\n\n**चरण 2: विद्युत क्षेत्र का संधारित्रता पर प्रभाव**\n\nजब एक विद्युत क्षेत्र एक पदार्थ पर लगाया जाता है, तो यह पदार्थ के इलेक्ट्रॉनों को प्रभावित करता है। यदि पदार्थ एक अच्छा सुचालक है, तो इलेक्ट्रॉन विद्युत क्षेत्र के कारण गति करने लगते हैं और विद्युत प्रवाह उत्पन्न होता है।\n\n**चरण 3: संधारित्रता में परिवर्तन**\n\nविद्युत क्षेत्र के कारण इलेक्ट्रॉनों की गति में परिवर्तन होता है, जिससे पदार्थ की संधारित्रता में भी परिवर्तन हो सकता है। हालांकि, यह परिवर्तन पदार्थ की ज्यामिति और विद्युत क्षेत्र की तीव्रता पर निर्भर करता है।\n\n**चरण 4: निष्कर्ष**\n\nविद्युत क्षेत्र संधारित्रता को प्रभावित कर सकता है, लेकिन यह परिवर्तन पदार्थ की ज्यामिति और विद्युत क्षेत्र की तीव्रता पर निर्भर करता है। इसलिए, विद्युत क्षेत्र संधारित्रता को ज्यामिति के आधार पर बदलता है।\n\n**उत्तर:**\n\nसही विकल्प है: C. विद्युत क्षेत्र संधारित्रता को ज्यामिति के आधार पर बदलता है।",
+    "extracted_answer": "C",
+    "judgement": 0
   }
 ]

@@ -66,8 +66,10 @@ SciEval_Dict = {
 
 MMLU_Dict = {
     "Work Power Energy": "Mechanics",
+    "1D Motion": "Mechanics",
     "Capacitor": "Electromagnetism",
     "Kinematics 1D": "Mechanics",
+    "Electric Forces and Fields": "Electromagnetism",
     "Alternating Current": "Electromagnetism",
     "Nuclear Physics": "Modern Physics",
     "Simple Harmonic Motion": "Waves",
