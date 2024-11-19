@@ -251,6 +251,7 @@ class ACF:
         return result.response
 
     def parse_llama_response(self, response):
+        parsed_response = None
         if 'THOUGHT' in response:
             expression = f'THOUGHT:'
             pattern = re.compile(f"{expression}\s*(.*)")

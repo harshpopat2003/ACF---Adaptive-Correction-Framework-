@@ -30,14 +30,14 @@ GRAPH_RAG_DIR = ''
 DATASET_DIR = ''
 RESULT_DIR = ''
 
-MMLU_Dict = {
-    "Modern_Physics": "Modern_Physics",
-    "Waves": "Waves",
-    "Thermodynamics": "Thermodynamics",
-    "Optics": "Optics",
-    "Electromagnetism": "Electromagnetism",
-    "Mechanics": "Mechanics"
-}
+# map_Dict = {
+#     "Modern_Physics": "Modern_Physics",
+#     "Waves": "Waves",
+#     "Thermodynamics": "Thermodynamics",
+#     "Optics": "Optics",
+#     "Electromagnetism": "Electromagnetism",
+#     "Mechanics": "Mechanics"
+# }
 
 SciEval_Dict = {
     "Work and Energy": "Mechanics",
@@ -64,7 +64,7 @@ SciEval_Dict = {
     "Circuits": "Electromagnetism"
 }
 
-PhysicsQA_Dict = {
+MMLU_Dict = {
     "Work Power Energy": "Mechanics",
     "Capacitor": "Electromagnetism",
     "Kinematics 1D": "Mechanics",
@@ -105,8 +105,6 @@ def load_data(data_path):
         topic_dict = MMLU_Dict
     elif 'SciEval' in data_path:
         topic_dict = SciEval_Dict
-    elif 'PhysicsQA' in data_path:
-        topic_dict = PhysicsQA_Dict
 
     for i in range(len(data)):
         data[i]['INPUT_DIR'] = topic_dict[data[i]['topic']]
